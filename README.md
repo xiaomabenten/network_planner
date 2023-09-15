@@ -8,6 +8,10 @@
 > ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
 
 
+> **23年11月份最新题库、全部免费、无广告刷题小程序，欢迎微信扫码练习！！！**
+>
+> ![软考达人](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/ruankao/share/%E7%BD%91%E7%BB%9C%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E5%B8%88-github.png?x-oss-process=image/resize,w_258,h_258,limit_0)
+
 #### 目录结构
  - 1.视频（2023年5月+2022年5月+2021年5月）
  - 2. 官方教材+教辅
