@@ -1,1007 +1,0 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-<title>ÌáÊ¾ĞÅÏ¢ -  ºèğÀÂÛÌ³ -  Ë¼¿Æ»ªÎª¼¼ÊõÉçÇø</title>
-<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
-
-<meta name="keywords" content="" />
-<meta name="description" content=",ºèğÀÂÛÌ³" />
-<meta name="generator" content="Discuz! X3" />
-<meta name="author" content="Discuz! Team and Comsenz UI Team" />
-<meta name="copyright" content="2001-2013 Comsenz Inc." />
-<meta name="MSSmartTagsPreventParsing" content="True" />
-<meta http-equiv="MSThemeCompatible" content="Yes" />
-<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?prr" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?prr" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'prr', charset = 'gbk', discuz_uid = '98072', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ºÃÆÀ¶È|µã,2|ºèğÀ±Ò|¸ö,5|ÍşÍû|µã,6|vip½ğ±Ò|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TlRGOFlUVXdNelkyTlRSOE1UTTJOekV4T0RBeE5udzVPREEzTW53eU56UTVPREU9', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
-<script src="data/cache/common.js?prr" type="text/javascript"></script>
-<meta name="application-name" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-tooltip" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-task" content="name=ºèğÀÂÛÌ³;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
-<meta name="msapplication-task" content="name=¼ÒÔ°;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="ºèğÀÂÛÌ³" href="http://bbs.hh010.com/archiver/" />
-<script src="data/cache/forum.js?prr" type="text/javascript"></script>
-</head>
-
-<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
-<div id="append_parent"></div><div id="ajaxwaitid"></div>
-<div id="toptb" class="cl">
-<div class="wp">
-<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">ÉèÎªÊ×Ò³</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, 'ºèğÀÂÛÌ³');return false;">ÊÕ²Ø±¾Õ¾</a><script type="text/javascript">var _speedMark = new Date();</script></div>
-<div class="y">
-<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="¿ªÆô¸¨Öú·ÃÎÊ" class="switchblind">¿ªÆô¸¨Öú·ÃÎÊ</a>
-<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="ÇĞ»»µ½¿í°æ" class="switchwidth">ÇĞ»»µ½¿í°æ</a>
-</div>
-</div>
-</div>
-
-<ul id="myprompt_menu" class="p_pop" style="display: none;">
-<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>ÏûÏ¢</a></li>
-
-<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>ĞÂÌıÖÚ</a></li>
-
-<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="Ôİ²»ÌáĞÑ"><em class="ignore_notice"></em></a></li>
-</ul>
-<div id="qmenu_menu" class="p_pop " style="display: none;">
-<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">Ìû×Ó</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">ºÃÓÑ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">Ñ«ÕÂ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">ÊÕ²Ø</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">ÈÎÎñ</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">ÌÔÌû</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">¹ã²¥</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">µ¼¶Á</a></li>
-<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">ÅÅĞĞ°ñ</a></li>
-</ul>
-<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/exam-service/hcies5.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
-<div class="wp">
-<div class="hdc cl"><h2><a href="./" title="ºèğÀÂÛÌ³"><img src="template/hh010/images/logo.gif" alt="ºèğÀÂÛÌ³" border="0" /></a></h2><div id="um">
-<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98072.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/80/72_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
-<p>
-<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98072.html" target="_blank" title="·ÃÎÊÎÒµÄ¿Õ¼ä"></a></strong>
-
-
-<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ°ó¶¨" /></a>
-
-<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">Âí¼×</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
-<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">ÉèÖÃ</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">ÏûÏ¢</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">ÌáĞÑ</a><span id="myprompt_check"></span>
-<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=2ca8f85c">ÍË³ö</a>
-</p>
-<p>
-<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">»ı·Ö: 0</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">ÓÃ»§×é: ÓÎ¿Í</a>
-</p>
-</div>
-</div>
-
-<div id="nv">
-<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">¿ì½İµ¼º½</a>
-<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >ºèğÀÍø</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >ºèğÀÂÛÌ³<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="×îĞÂFTP×ÊÁÏ" target="_blank"  >FTP×ÊÁÏ<span>×îĞÂFTP×ÊÁÏ</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >¿¼µã²éÑ¯</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >ºèğÀÑ§Ôº</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >Êé¼®ÏÂÔØ</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">¸ü¶à</a></li></ul>
-</div>
-<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">Ã¿ÈÕÇ©µ½</a></li>
- </ul>
-<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >×ğ¹óVIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP×ÊÁÏ</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >Èº×é</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >ÅÅĞĞ°ñ</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >¼ÒÔ°</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >Ñ«ÕÂÖĞĞÄ</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >ÊÖ»ú¿Í»§¶Ë</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="È«Çòccie×ÜÈËÊı" target="_blank" >È«ÇòCCIEÅÅÃû</a></li><li><a href="vip.php" hidefocus="true" >VIPÖĞĞÄ</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >»ı·ÖÉÌ³Ç</a></li></ul><div id="mu" class="cl">
-</div><div id="scbar" class="scbar_narrow cl">
-<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
-<input type="hidden" name="mod" id="scbar_mod" value="search" />
-<input type="hidden" name="formhash" value="2ca8f85c" />
-<input type="hidden" name="srchtype" value="title" />
-<input type="hidden" name="srhfid" value="" />
-<input type="hidden" name="srhlocality" value="forum::attachment" />
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td class="scbar_icon_td"></td>
-<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="ÇëÊäÈëËÑË÷ÄÚÈİ" autocomplete="off" x-webkit-speech speech /></td>
-<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">ËÑË÷</a></td>
-<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">ËÑË÷</strong></button></td>
-<td class="scbar_hot_td">
-<div id="scbar_hot">
-<strong class="xw1">ÈÈËÑ: </strong>
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnpÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦'</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnaÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNAÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏßÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ĞÅÓÃ¿¨</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß¿ØÖÆÆ÷</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">Ë®¾§ÅÆ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ãÆ»Ô</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÁõµÀ¾ü</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=2ca8f85c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
-
-</div>
-</td>
-</tr>
-</table>
-</form>
-</div>
-<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">Ìû×Ó</a></li><li><a href="javascript:;" rel="user">ÓÃ»§</a></li></ul>
-<script type="text/javascript">
-initSearchmenu('scbar', '');
-</script>
-</div>
-</div>
-
-
-<div id="wp" class="wp">
-<div id="ct" class="wp cl w">
-<div class="nfl">
-<div class="f_c altw">
-<div id="messagetext" class="alert_error">
-<p>±§Ç¸£¬Ô­¸½¼şÁ´½ÓÒÑÊ§Ğ§ <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NTF8NWJhMGI2Zjd8MTQxMDY3NTA1MHw5ODA3MnwyNzQ5ODE%3D">[ µã»÷ÕâÀïÖØĞÂÏÂÔØ ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ µã»÷ÕâÀï²é¿´Ô­Ìû ]</a></p>
-<script type="text/javascript">
-if(history.length > (BROWSER.ie ? 0 : 1)) {
-document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ µã»÷ÕâÀï·µ»ØÉÏÒ»Ò³ ]</a></p>');
-} else {
-document.write('<p class="alert_btnleft"><a href="./">[ ºèğÀÂÛÌ³ Ê×Ò³ ]</a></p>');
-}
-</script>
-</div>
-</div>
-</div>
-</div></div>
- 
-     
-
-
-
-<link href="source/plugin/ukasky_livecontact/template/ukasky/image/common.css"	rel="stylesheet" type="text/css" />
-
-<style>
-<!--
-.ukasky_liveco<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-<title>ÌáÊ¾ĞÅÏ¢ -  ºèğÀÂÛÌ³ -  Ë¼¿Æ»ªÎª¼¼ÊõÉçÇø</title>
-<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
-
-<meta name="keywords" content="" />
-<meta name="description" content=",ºèğÀÂÛÌ³" />
-<meta name="generator" content="Discuz! X3" />
-<meta name="author" content="Discuz! Team and Comsenz UI Team" />
-<meta name="copyright" content="2001-2013 Comsenz Inc." />
-<meta name="MSSmartTagsPreventParsing" content="True" />
-<meta http-equiv="MSThemeCompatible" content="Yes" />
-<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?prr" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?prr" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'prr', charset = 'gbk', discuz_uid = '98072', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ºÃÆÀ¶È|µã,2|ºèğÀ±Ò|¸ö,5|ÍşÍû|µã,6|vip½ğ±Ò|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TlRGOFlUVXdNelkyTlRSOE1UTTJOekV4T0RBeE5udzVPREEzTW53eU56UTVPREUlM0Q=', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
-<script src="data/cache/common.js?prr" type="text/javascript"></script>
-<meta name="application-name" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-tooltip" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-task" content="name=ºèğÀÂÛÌ³;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
-<meta name="msapplication-task" content="name=¼ÒÔ°;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="ºèğÀÂÛÌ³" href="http://bbs.hh010.com/archiver/" />
-<script src="data/cache/forum.js?prr" type="text/javascript"></script>
-</head>
-
-<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
-<div id="append_parent"></div><div id="ajaxwaitid"></div>
-<div id="toptb" class="cl">
-<div class="wp">
-<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">ÉèÎªÊ×Ò³</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, 'ºèğÀÂÛÌ³');return false;">ÊÕ²Ø±¾Õ¾</a><script type="text/javascript">var _speedMark = new Date();</script></div>
-<div class="y">
-<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="¿ªÆô¸¨Öú·ÃÎÊ" class="switchblind">¿ªÆô¸¨Öú·ÃÎÊ</a>
-<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="ÇĞ»»µ½¿í°æ" class="switchwidth">ÇĞ»»µ½¿í°æ</a>
-</div>
-</div>
-</div>
-
-<ul id="myprompt_menu" class="p_pop" style="display: none;">
-<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>ÏûÏ¢</a></li>
-
-<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>ĞÂÌıÖÚ</a></li>
-
-<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="Ôİ²»ÌáĞÑ"><em class="ignore_notice"></em></a></li>
-</ul>
-<div id="qmenu_menu" class="p_pop " style="display: none;">
-<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">Ìû×Ó</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">ºÃÓÑ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">Ñ«ÕÂ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">ÊÕ²Ø</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">ÈÎÎñ</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">ÌÔÌû</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">¹ã²¥</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">µ¼¶Á</a></li>
-<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">ÅÅĞĞ°ñ</a></li>
-</ul>
-<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/exam-service/hcies5.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
-<div class="wp">
-<div class="hdc cl"><h2><a href="./" title="ºèğÀÂÛÌ³"><img src="template/hh010/images/logo.gif" alt="ºèğÀÂÛÌ³" border="0" /></a></h2><div id="um">
-<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98072.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/80/72_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
-<p>
-<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98072.html" target="_blank" title="·ÃÎÊÎÒµÄ¿Õ¼ä"></a></strong>
-
-
-<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ°ó¶¨" /></a>
-
-<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">Âí¼×</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
-<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">ÉèÖÃ</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">ÏûÏ¢</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">ÌáĞÑ</a><span id="myprompt_check"></span>
-<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=7b09493e">ÍË³ö</a>
-</p>
-<p>
-<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">»ı·Ö: 0</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">ÓÃ»§×é: ÓÎ¿Í</a>
-</p>
-</div>
-</div>
-
-<div id="nv">
-<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">¿ì½İµ¼º½</a>
-<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >ºèğÀÍø</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >ºèğÀÂÛÌ³<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="×îĞÂFTP×ÊÁÏ" target="_blank"  >FTP×ÊÁÏ<span>×îĞÂFTP×ÊÁÏ</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >¿¼µã²éÑ¯</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >ºèğÀÑ§Ôº</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >Êé¼®ÏÂÔØ</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">¸ü¶à</a></li></ul>
-</div>
-<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">Ã¿ÈÕÇ©µ½</a></li>
- </ul>
-<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >×ğ¹óVIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP×ÊÁÏ</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >Èº×é</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >ÅÅĞĞ°ñ</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >¼ÒÔ°</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >Ñ«ÕÂÖĞĞÄ</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >ÊÖ»ú¿Í»§¶Ë</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="È«Çòccie×ÜÈËÊı" target="_blank" >È«ÇòCCIEÅÅÃû</a></li><li><a href="vip.php" hidefocus="true" >VIPÖĞĞÄ</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >»ı·ÖÉÌ³Ç</a></li></ul><div id="mu" class="cl">
-</div><div id="scbar" class="scbar_narrow cl">
-<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
-<input type="hidden" name="mod" id="scbar_mod" value="search" />
-<input type="hidden" name="formhash" value="7b09493e" />
-<input type="hidden" name="srchtype" value="title" />
-<input type="hidden" name="srhfid" value="" />
-<input type="hidden" name="srhlocality" value="forum::attachment" />
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td class="scbar_icon_td"></td>
-<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="ÇëÊäÈëËÑË÷ÄÚÈİ" autocomplete="off" x-webkit-speech speech /></td>
-<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">ËÑË÷</a></td>
-<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">ËÑË÷</strong></button></td>
-<td class="scbar_hot_td">
-<div id="scbar_hot">
-<strong class="xw1">ÈÈËÑ: </strong>
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnpÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦'</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnaÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNAÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏßÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ĞÅÓÃ¿¨</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß¿ØÖÆÆ÷</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">Ë®¾§ÅÆ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ãÆ»Ô</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÁõµÀ¾ü</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=7b09493e&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
-
-</div>
-</td>
-</tr>
-</table>
-</form>
-</div>
-<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">Ìû×Ó</a></li><li><a href="javascript:;" rel="user">ÓÃ»§</a></li></ul>
-<script type="text/javascript">
-initSearchmenu('scbar', '');
-</script>
-</div>
-</div>
-
-
-<div id="wp" class="wp">
-<div id="ct" class="wp cl w">
-<div class="nfl">
-<div class="f_c altw">
-<div id="messagetext" class="alert_error">
-<p>±§Ç¸£¬Ô­¸½¼şÁ´½ÓÒÑÊ§Ğ§ <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NTF8MDdiZWViZjN8MTQxMDY3NTA0NXw5ODA3MnwyNzQ5ODE%3D">[ µã»÷ÕâÀïÖØĞÂÏÂÔØ ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ µã»÷ÕâÀï²é¿´Ô­Ìû ]</a></p>
-<script type="text/javascript">
-if(history.length > (BROWSER.ie ? 0 : 1)) {
-document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ µã»÷ÕâÀï·µ»ØÉÏÒ»Ò³ ]</a></p>');
-} else {
-document.write('<p class="alert_btnleft"><a href="./">[ ºèğÀÂÛÌ³ Ê×Ò³ ]</a></p>');
-}
-</script>
-</div>
-</div>
-</div>
-</div></div>
- 
-     
-
-
-
-<link href="source/plugin/ukasky_livecontact/template/ukasky/image/common.css"	rel="stylesheet" type="text/css" />
-
-<style>
-<!--
-.ukasky_li<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-<title>ÌáÊ¾ĞÅÏ¢ -  ºèğÀÂÛÌ³ -  Ë¼¿Æ»ªÎª¼¼ÊõÉçÇø</title>
-<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
-
-<meta name="keywords" content="" />
-<meta name="description" content=",ºèğÀÂÛÌ³" />
-<meta name="generator" content="Discuz! X3" />
-<meta name="author" content="Discuz! Team and Comsenz UI Team" />
-<meta name="copyright" content="2001-2013 Comsenz Inc." />
-<meta name="MSSmartTagsPreventParsing" content="True" />
-<meta http-equiv="MSThemeCompatible" content="Yes" />
-<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?prr" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?prr" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'prr', charset = 'gbk', discuz_uid = '98838', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ºÃÆÀ¶È|µã,2|ºèğÀ±Ò|¸ö,5|ÍşÍû|µã,6|vip½ğ±Ò|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TlRGOE5qUTJNakU0Wm1KOE1UTTVNamMzT1RRMU0zdzVPRGd6T0h3eU56UTVPREUlM0QmY2s9NmE3NjNkYzg=', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
-<script src="data/cache/common.js?prr" type="text/javascript"></script>
-<meta name="application-name" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-tooltip" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-task" content="name=ºèğÀÂÛÌ³;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
-<meta name="msapplication-task" content="name=¼ÒÔ°;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="ºèğÀÂÛÌ³" href="http://bbs.hh010.com/archiver/" />
-<script src="data/cache/forum.js?prr" type="text/javascript"></script>
-</head>
-
-<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
-<div id="append_parent"></div><div id="ajaxwaitid"></div>
-<div id="toptb" class="cl">
-<div class="wp">
-<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">ÉèÎªÊ×Ò³</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, 'ºèğÀÂÛÌ³');return false;">ÊÕ²Ø±¾Õ¾</a><script type="text/javascript">var _speedMark = new Date();</script></div>
-<div class="y">
-<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="¿ªÆô¸¨Öú·ÃÎÊ" class="switchblind">¿ªÆô¸¨Öú·ÃÎÊ</a>
-<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="ÇĞ»»µ½¿í°æ" class="switchwidth">ÇĞ»»µ½¿í°æ</a>
-</div>
-</div>
-</div>
-
-<ul id="myprompt_menu" class="p_pop" style="display: none;">
-<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>ÏûÏ¢</a></li>
-
-<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>ĞÂÌıÖÚ</a></li>
-
-<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="Ôİ²»ÌáĞÑ"><em class="ignore_notice"></em></a></li>
-</ul>
-<div id="qmenu_menu" class="p_pop " style="display: none;">
-<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">Ìû×Ó</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">ºÃÓÑ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">Ñ«ÕÂ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">ÊÕ²Ø</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">ÈÎÎñ</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">ÌÔÌû</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">¹ã²¥</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">µ¼¶Á</a></li>
-<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">ÅÅĞĞ°ñ</a></li>
-</ul>
-<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/exam-service/hcies5.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
-<div class="wp">
-<div class="hdc cl"><h2><a href="./" title="ºèğÀÂÛÌ³"><img src="template/hh010/images/logo.gif" alt="ºèğÀÂÛÌ³" border="0" /></a></h2><div id="um">
-<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98838.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/88/38_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
-<p>
-<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98838.html" target="_blank" title="·ÃÎÊÎÒµÄ¿Õ¼ä"></a></strong>
-
-
-<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ°ó¶¨" /></a>
-
-<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">Âí¼×</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
-<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">ÉèÖÃ</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">ÏûÏ¢</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">ÌáĞÑ</a><span id="myprompt_check"></span>
-<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=bd23aaff">ÍË³ö</a>
-</p>
-<p>
-<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">»ı·Ö: 0</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">ÓÃ»§×é: ÓÎ¿Í</a>
-</p>
-</div>
-</div>
-
-<div id="nv">
-<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">¿ì½İµ¼º½</a>
-<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >ºèğÀÍø</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >ºèğÀÂÛÌ³<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="×îĞÂFTP×ÊÁÏ" target="_blank"  >FTP×ÊÁÏ<span>×îĞÂFTP×ÊÁÏ</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >¿¼µã²éÑ¯</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >ºèğÀÑ§Ôº</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >Êé¼®ÏÂÔØ</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">¸ü¶à</a></li></ul>
-</div>
-<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">Ã¿ÈÕÇ©µ½</a></li>
- </ul>
-<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >×ğ¹óVIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP×ÊÁÏ</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >Èº×é</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >ÅÅĞĞ°ñ</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >¼ÒÔ°</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >Ñ«ÕÂÖĞĞÄ</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >ÊÖ»ú¿Í»§¶Ë</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="È«Çòccie×ÜÈËÊı" target="_blank" >È«ÇòCCIEÅÅÃû</a></li><li><a href="vip.php" hidefocus="true" >VIPÖĞĞÄ</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >»ı·ÖÉÌ³Ç</a></li></ul><div id="mu" class="cl">
-</div><div id="scbar" class="scbar_narrow cl">
-<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
-<input type="hidden" name="mod" id="scbar_mod" value="search" />
-<input type="hidden" name="formhash" value="bd23aaff" />
-<input type="hidden" name="srchtype" value="title" />
-<input type="hidden" name="srhfid" value="" />
-<input type="hidden" name="srhlocality" value="forum::attachment" />
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td class="scbar_icon_td"></td>
-<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="ÇëÊäÈëËÑË÷ÄÚÈİ" autocomplete="off" x-webkit-speech speech /></td>
-<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">ËÑË÷</a></td>
-<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">ËÑË÷</strong></button></td>
-<td class="scbar_hot_td">
-<div id="scbar_hot">
-<strong class="xw1">ÈÈËÑ: </strong>
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnpÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦'</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnaÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNAÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏßÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ĞÅÓÃ¿¨</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß¿ØÖÆÆ÷</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">Ë®¾§ÅÆ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ãÆ»Ô</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÁõµÀ¾ü</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=bd23aaff&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
-
-</div>
-</td>
-</tr>
-</table>
-</form>
-</div>
-<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">Ìû×Ó</a></li><li><a href="javascript:;" rel="user">ÓÃ»§</a></li></ul>
-<script type="text/javascript">
-initSearchmenu('scbar', '');
-</script>
-</div>
-</div>
-
-
-<div id="wp" class="wp">
-<div id="ct" class="wp cl w">
-<div class="nfl">
-<div class="f_c altw">
-<div id="messagetext" class="alert_error">
-<p>±§Ç¸£¬Ô­¸½¼şÁ´½ÓÒÑÊ§Ğ§ <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NTF8MjkxYjgyZWJ8MTQxMDY3NTA0MXw5ODgzOHwyNzQ5ODE%3D">[ µã»÷ÕâÀïÖØĞÂÏÂÔØ ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ µã»÷ÕâÀï²é¿´Ô­Ìû ]</a></p>
-<script type="text/javascript">
-if(history.length > (BROWSER.ie ? 0 : 1)) {
-document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ µã»÷ÕâÀï·µ»ØÉÏÒ»Ò³ ]</a></p>');
-} else {
-document.write('<p class="alert_btnleft"><a href="./">[ ºèğÀÂÛÌ³ Ê×Ò³ ]</a></p>');
-}
-</script>
-</div>
-</div>
-</div>
-</div></div>
- 
-     
-
-
-
-<link href="source/plugin/ukasky_livecontact/template/ukasky/image/common.css"	rel="stylesheet" type="text/css" />
-
-<style>
-I]/ExtGState<</GS0 47 0 R>>>>/StructParents 2>>endobj6 0 obj<</Length 247/Filter/FlateDecode>>stream
-H‰tËNÃ0E÷ówI7öLl—XªºhR¡,*â@Q¢&<²@âë±CÒ*(xã×Ìñ=ÖUw>uÇúåñıˆÍFŠªc»İ•èƒô]ÍxîÉŠUÎ2K¼dXöÊˆ÷9<Ã8«n-ƒ¦%]µŒòhˆ }ÊÕE-húÄ@ßt$8áòÔ.cCx"FhbUøJ¥¡‡pš¿ÓÑgÜ(7@†…ãÑ¤PS"„–n°
-¯´c%İìª;×k¯“£ø\åÌÆ²ìh&ÒÌá¿˜#4ó9¯L»Èd•¹ÔØüùÏŠã0\Téë_øŒş#À wk÷
-endstreamendobj7 0 obj<</Length 73/Filter/FlateDecode>>stream
-H‰ú÷ïÃË—/gÍšUSSsóæÍŒŒŒ.|øğaùòå>ôõõİ´iÓŞ½{?şñı#†Q0
-† 0 ¿"‚
-
-endstreamendobj8 0 obj<</Length 49>>stream
-şşş   ÙÙÙ|||ŒŒŒéééáááMMMhhhĞĞĞ²²²§§§½½½šššğğğÇÇÇ
-
-endstreamendobj9 0 obj<</Length 8688/Filter/FlateDecode/Width 564/Height 196/BitsPerComponent 8/ColorSpace 13 0 R/Type/XObject/Subtype/Image>>stream
-H‰ìWí–¹´†2’}ÿ·½@·­ú˜³?öÜceí¶-•J%wÓÚ²eË–-[¶lÙÿ‹…\öq¤=›+<h8ö8êşÑ§»©‚&DãzwÈUFœæ××Íá9;øàKP5ãU·RôÁã„ò}-'uAÂEIW€ î;{y¡ÜfŸ¾òù†f ŞšA Á°PÊ¦ƒ'xLğX²­†ê˜ó”FáŠâ®Çõ%ìœRî-1 K¼2³æÆO$Ğ‘N%%g¨N Â¶§™d§–ÇÂ5 –º³hòJAŒ¾ƒÄçÇ)"àÊ[ÏP‘é)åzJL#HjéˆzÚ‚°,èÏ[‡	ê	*®K×!,ş8Eüø9Fç¸ü‚,Œ±¹fd¦,_!ò§ÇšóçX½÷Uk—RgÄzOû
-şÇæ[jÖĞ‡”³Ëy£´±#nÖ^BpàM±,Á/ÊJr×*ºf>â«µ¯ø½/—Ïvf8ôD3Ğ%zzHù„YÒA‹óãÿõ<<›Ÿ”şsê¤ºÜ|YQ]&<RsÊYX‡˜µôõWuCZ4,MÉm_->ï˜­P÷pÈB|Øéqq½õ÷Ÿ¸uyü ’-ˆ°ĞŒŠ \eæ>ÑÌ9h²™¥rhfœ=ÑS¥öt’P0ÉàÿÓ%g#•1ÃeáÊ‡Æ{ôfı<¦–~Áô^wp½µô­Hâãvæœão&ÅºOü–=2f
-g¸£‡ª™-M’íhk0r\T~ğÊûÆz“'d‡”K×L#(u)«A¶¥“TÁ>ö¥€¢yCe{ŠÂtÈ5d½JÍÜÅs¾ŞÎËÇH§x“-4ÓİbmyUèb"õ½?›N°Xù
-Úï™rÃ¿' ©=½BÎ(§gäa5”«²çî5!ª. ?=èÕ5Œ‡ r»f®‹{ÿ¾^ˆZ’y×Œ´L)Z…ÃéÊCĞÜ¦ò*•:~¹Aé“’Âq&9×LîäœAıÒo%åš‘VÈK@ìÌh%(zã9xyFÕwP©E,±§T2¸›Zî£ÓvÎÜå†B3PñÊ¾Ìy¤å<*4²<w x;¡×y\Á
-ª˜«!râÚÑ²ŠòhºoïƒÚšúl`ÕL`Üúˆ—B&]ÖÃ€5óóñ»éúqûít{Ÿù{jŸWÿİ4ä+N<÷ñ¢ˆ¤]ˆ	IšátÆ‘£T9uR…à+iæ89ò€õÇªÌ*•Œ~ qÖšiº2ØqõÉ ‡.‚áqŞøØÛìçÛï¥Ëéóö&Ú¯Kœ? "8„ §ÇØ%@¸“çN¢\cAĞñ¼r+±HUjSÊ-Ä,fˆ;2,êNPP_dEá«åÁjÉ'ĞÔ!BT¦¦ü½6³¨“(†¥¦ı½#3œycÏ8h‰ˆ©êœW{Nu@×C }Â1	ve„eË–-[¶lÙ²eË–-[¶lÙ²eÿ)‹»åUÆGkx>¼’®-ÔPLëº}­B1X3‡47Kˆ#æ\½”CüóSœ3†t:Ø·]Îãg¬NY«íDp‚ŸÈJŒ}ZÒ§ğ‹¼ëríº½öÜ
-©ÁdéV.ß×Ì¶D1­0á£61®c…ğm—U¯cT±¡‰ÈÛ@ÀøŞ(ßc[I¦Äød¾Z;bèÓ€QŸ”c®@\Dh´/µÙ…ÁâÔòPâ&ûÑ“ßu91©£xˆÚa‰oä¤?XœoIß5Ó7ôQ“Kâ¶K%H×Ù%¹V]‚HBğºÁ.Sv ™qõ¥fğÂÎ™ï¸ŒÓıórİ×]Oe¼>ì•³bLò‰šq]p5f~çjâÖOŞQ8à•1Ãî±ÃâÄÉq¥™–‡Ò0Ïp3J˜ş–Ë8ß>>®×ŸÛõçùº‹¦ªãv{Ÿ.Tœ¥ÁK,ĞKvXôÚHäZ‹¹ˆÇ„¾QÅ£|yº(¦¸‰f*"h”Ğºf’’ÉÌçËšişñ¶Ë‡fşœN_ız;x¦•_°œõ•=ÚRmÒ¦(´HZkFvñ0t¶Æ%ÄÙs@zƒ}µ®#`PR}&)ğÕÌ¡¢ç8kŞ„&ŒÙuù—\~ısí×çHÂu]ßH¾áG ¶e¿"PPêª!¯MuçM±©Ù0‡H½l/h~b“‰~m	óÔİæ¥Ä‰'4à@4ù¶Ë»N~ÇçgübÍhDƒŒ`1kÆ(M>’#!ÎI«ı›šéïµšæ7»c0;©yx)	R‰ªX-€“ €ªCM­Æ˜á|ŸÕå]'_—ÛQsêš¹–Ş¡!œ.ªˆÆI•K¿ëH³Ş	¯9è¯(ğ¼Ädøša&•3PnÁ0ë)HXa¢šË²¸ÀÉ®ÔZ¡ÿ®Ë»N®½«ï3_îßı©Xû,òX©ua/–£Pù¶áI¼ªíx¬üz„Ñw Ó¹‘JşEjÅ›&a *Ö'`	ÙTğ¥JÛå¹ıŒÛO¥ÛÃéş»éëú9îo¨NÙ4C"™£²@@}j¹Ø± 64£ÈŠ°™>¶ZæÊâh«E_	7ã²,A ß¹f`qğ·\Úé~¼´óùüúõÁFÎÊy¡™,©¿)Ó:ötvyD¾Ôè™†·|Š`3”¢OCYLÊ˜Qª„›ÿ|r4M=2á)ÙåÑˆÍ¶ÂIÄ×qaäø–Ë'†oJâ¯x6-[¶lÙ²eË–-[¶lÙ²eËşm‹n4Ø†÷;¾pÌá¤ßÂ02.CX<˜€røq õÀJ&Ìír–rè½\(4”ûh„.´>qè†(}‡%A;ÙüÁ³UEÙ	Rİå¨“¾˜2ÁÌS*‘$tĞ!Rú±)ù)ƒ¢™ª]'U1/”uêB6†'°r0í¹û¦®JÑéaÆRìşiQÆ’Â§v•@ämÜë`©4°(q^aÃ„[j[Ú“µ&‚b_ôU¸œCÁºî]º¯ªŸ;Âı´ı3Iâ"‚¦ÄNµ”ša¬’€9?gHÖ)hjèÂ)±ÌäŒ½4§o¨ÉvE_ôÁ“Ò£QÅË¤U,?ìB‰/KE·Ò!•)ß!ñ	« îÉ¾¡™á‹/hy.EÀ}ƒÙ(€‹Á0*SLÕ§¨o­v©#BOZ?cÂ£kÆª}“Q-ULøÔ‘Yéy7í’¼ÿ²f4“®‚ƒ|ÚÎ`ohÖ@3¡wö<ĞeÚ‰(ô®¸‹i™ï$ `¹ÓFa#­X“3Ï5e)2i[ôãS†Vs—pªÒÚf@¨ÂŠ`é½±í ¼ÓkDx¦DRóAš)+8rÍäuvvÍ¯ô´¤3üvkâ'»–“
-h¶qiïª@wwµfd¯TÉ[M>ëWÏ™6É;>ê|ÛÆBm7hÎ5sÄDÆ¯¡I8LcTgFú‘©?±A£/Â¦k#0Å‚”Œ|Oö°¯’(ªÌz2a’zjh¬˜{Q—„Æö•šÁ†b)>¨)© e†©qg4¹Â/g5“aØ'ï“E½Å-cû=5ÕüPõoWN¾¾öBÛ¥­è
-LiF²ê»‚¸OĞZClA˜˜õçğ-8kiÓ‹Ba@¯h¦€@š1=	o5v´È•Fyxik´">KJÍ„º	Y0¦vgãœ å5ı–Œ­AMsÔh˜C_÷‚îµ®m2™‹‚f"cËí—5ÓtN1>GˆÌG$5ÕL>jgllìşğ¤köšÕVÍtü>Ç«èL–ô3*@å¨mÔ]Å D
-0Ñ}-(’‰¨DTºıÖè÷èâ&…×Í± ¢ztÀ…?Ñ3¬ÄS5«	µY
-:
-e[9ÉÔVY¸¯}gÿ
-`iù#©F–0$¯¢gØX¼h
-ƒ¸0êÏîÜ4èÿ‰@yÒ`1J~J_>ë½c]c<Yï¥|–-[¶lÙ²eË–-[¶lÙ²eË–ı7-ä*äîÁ¶àáó©;¹Rf"m‚ó vşáhx[;É7¶¿„A±¢€ë"lÕlöĞ4†•üûçÜ…ÏEÏÌıÊGG@q’…½V!VP¶ká¸¡È7ÿT«óJÔÙæ­YNEçB"[SÛF]k•ÓUEw]±’QŒD’‡~«"Ã(U•ºd%ê°ùĞJÎ¢KoÒ4ö;ó§YCºl‘€G3¡Úa+†—¤Å• )d_$ühğİ(3Í(‹.©;`îsäH}t!{È~%$ÈGÇÛ½ÕõˆB4,àÉ%ü	/A.°Eğƒ07Ãö…‘,sq´ı~‰¹TT·]VıÇ«RyŒ<‡’âlá±f ($g¥ÂG6gWíÃ»HÙ­-Ï~ai°
-&ÙVV„¯ô»¥«2Ô
-]ÍÒŞSşÇ~µm7rã@Â•Ç^%ûÿ»¶Õê¶¬99±ˆdZ}!B¡@Ò .j¶ÀB!T…
-Ü2¦/uJO‚˜óÑtIJ/ä—o)1oõQeà¼H48‘c ‹ÓàË¾)ÓDÚòñ…‡®LêŠ=“Ú²Îœ|ç5`jfHíY3™•Ü¥Ø¸‰şa}©f˜òÌí§@%bÎ½‰N Ë ¤Šâ,‚m\x/-Ô,ŒÉ›cnV8Â‘Mh»ÇLg©ªEù9òÒl¹µ ªD¬i&Fµì°!®º°×3káAFX×Rñ‚¦ ]C²*òj$4“)¦˜äjÁ€ÒïìÈ™õb=˜	j¤iÊ‹J´)'ib±È‹—ÈŞš°Eƒ­È"÷¼Ò¾HŒ”œ"c÷‰æñ.¢•çn^«±V3¡ãûCšYD`&™—YÏ ?8¢‘	ŸÄ6LŠK*)ê©¶àÇj+’à¿ã§ç Y­òÔbGáLnÀ,¸Œ]¿Ídƒ¨NE€gš9À	û¹„T’G2˜gˆ†©e«™aŠ¾ÖLØÎ°››£-¤†	¦fV‚n.´
-Ç?VYÊå=d7[E3åp(Ó™,¼½f–FğË¸ù]Ş×]3ª¦æ/ú^4£8AZè™åÔ}Fjò7^@Í¨ ÅH›{¦À‡ä$VïÓùÀ"ÍcbUT¶`®Kê$o…¶u8ØZcP+5š)/¤®_K‡8â ¿ÍIœP~H?ğ\u¬İ|”„Š
-­·Ä¬VÜu5àæ)ØÓ‘|«­½™€Œ)v€Äj·¹ÍÑ@6ÉœG \Ù¦x(«J2db!3‡’2Y¥€wÃ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ¶Ÿaq³Õ×şñ6EfÒGşV7ú)ä;ÇÔÛÌmÿªAÑ"¬ÜM±?Õ2¸4¯ªëši‚ê@«@¶f~„5+BàPIÑÒ²Gºøª“Î¡Öİõiœ­ˆÛş=Ã^/3S%‡:Í”JNÈk…†OÍ—±eyÛöM†)a€fL7cª†w£ÌÊk4CëLM]ípckæ›j†J¼«à·ªæufµß5ŸÜ®ò)ö1ø'˜ö6ïMõfKÍÔÿ_Ş›"Gn…`äyfkæ‡Xô •üD{VÌºŸjfq²ÕúÏA¸Ã…ŒØö]eĞ5ã»Ê1Âv¥ûçØí¦4&Zä%ÁÙöpj¶å.Rêˆ#šQ? FÍ´Ö“×\»ÎsÛ?g¼Ü×Ò0ÍÀº ÿˆfìDƒa@—ª™½Ú|§…€Ö>cÑFŞ÷OA•íÖ*>0ÑA	ç'ßã¾×™o·ÀSjnRİ‘¥”Uª>ŸuXY²Î´{.$¸ûm±lÛ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ¶¶È¾h¾EÙ½y·‡ĞyÍĞÃK¬¦ñú	ĞüJúqÚúPîS†÷™«0ã”Øæ5"oş•"ÙıCóÌ97Œ1qbŞLBƒÌ4‘hZôÒnc´¿NI˜jXßŠ&õĞ˜ÿäÍüÿ(ö1²Â7j^ÔîqÃ±Úg1=§£[½ÚÛoAi`ĞSÍ„:.ĞL:n×­ÃàÃË•‘å&†ñ£åïq CT»Jè$Û”µ‹şe«ù\¶Ê`tU\ô`§ şÆ2µ¶µ:'İQošyŸwyO—xù=¡½]ãyŒçìÊq,!S ¹²T8€¢¸˜5éò÷ó_oùÃTY·Ğ©çË3^¶ªQS“Ç?´ÀÌ+| uRC!iC§3vIÎ°îwëÌ¼©£¼Ëe\/ãååu\Ç ×§q•dş7ÒË¸hš  ÊºïY3ï¡.ğ³hu–+PªÅzBı •¼²HEšĞØ¬º:ä…?G7gì˜EYAÏP½¯k†¼x/êˆ_õø~ùõöj¦Êå}#KÉÌ,nMÉ;Ygbh"˜~}ŒÀ1|ZfA¨Å¯AÓ•ìãôaíÏU4#PksL§szyC¤Ù1s˜k&@ªËvÿ|øÔÌ%şÎÇËÓ4ƒiOï“`XYX]7K9Ç$Hgk¬ŸifÔÌÑ%¶3‡i|	šû¨AkM²2ì ÄÍâQ¹pÏ9`
-Áš	‰®Ÿ°’r_Qñbü±7}^^ÇÏË¯ÿô{è€Œu¥XZ_™;TI×8FIJhÖíB¶?°ˆìÏFÛ[Œ	úM9k@Ğm‰”z®*˜…·yxuÍPÀ¸"ş{}ù|<4ó¿gÕÌüƒÂŠ…âääÜÊ­Ï¬ë-õ‚¨‚v~øªêˆö­_lÃ{ÈJÍfü¡Ù&6Ya'²†2ÖLu	zC¤÷/N:IĞãÜ9½hjæıL¥11íD…‰:SË·ûN3´göš.S«½	
-şgš©XRÌ¬U9ÿ•ÃùZg<^;Ö³¹Âf¥1Ë]˜$ƒÛëOÍ<×+üİô~y£åúp­™‰
-šµšÄpv([¼¶«å{ÄÈ#Q3©&³¾Úú|ÅX3*]òÇ¿&à‰ı:“É94/Lˆ`er$.<o?¥òûåıÜûùø|\®WÍ3Rx¼#ã]ÀàÚ5jm¥^”ğU`à2‰…&.L•p“7¬5C’a³ ˜•Õ±¹Ïoâcı`z¡G†tÃoÁ,"}kO©)9Bİ¥À¢Íu¾Éøø§…ÂL%ÅóÀğ„‡#N&Hm0—5Ë¬7±âÈ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ¶}«½oîj|3/phèÄ ù‹oÍ<»z¿ğ‚8Çúv	Ëså‡ãZô¤ƒ",N`:5ÿ—YRÅ[X=‹œ÷Ò&D$Œãªh¦¿†vbB R»ÌE!rŠ·Ğ/{.Õ˜9G·$—šÑÎáêPkædGÑˆFl›+§ŞõŠhFê|ªò¡‹Á„Û‰!¤­VåN*Ç(K›“ŠşæEŠ‡@+7¯†ö5k TsÒÖm‘*ƒtŠ–Âv¦ı6Œ£ ³°Š±%P¾I\hF:•O¦ñ >ñÎÊ‰0Ö¾Å0fb÷‡Ù-ÊÁÉá¿¸9SDPm /²rd)tzqm3tÌD4s^ GßÄZH3d§té›!R†å"ºp1 ó€ÿL3X# Êˆ^Ê³³PåRVD£gåÃıGkÍ@²zzY[á”¬ökFc-Ö¼E§OP‚°ÂØjb4QRAĞˆ«Ür¸T9Qå€x"/L¬¸‹IÁè™S’Ø lF2`ß2Í¬@ê±€ç³à%k3‰eÆÀcèôQBQ2 $Õg©=¦IÏ.‹ÉĞê@¼L\jcP*0ÀsÇ,¢;Cq¢Ã,e
-ˆLNÜ! ¢óª¸"$’‘sÖ3%,’›ÍPz¬SÈbojŞ.jéŒ+‘½‰SÌõè‰rF/|ÎÄè¥‰šITÓQ.'¤¦¬“âH’‰e	‡qÕ¹äú§›+´ÕÌô,sJéóH†ø8ÑLz>óDêjäš‘#?éš½GGÍ°`uÍ!uvA1"!MDy¯AB°	$+"¥””ˆt +bƒ²ƒÔëüUŒ7+)0¨èYtÇõ5B ]„<i\³ÑÔ¼¬FŞ2Pi¬Œx.=Ò×5è.HÎÓ(šwM"™¡½äÚJZñùD—Ú&´Äíy©Ø¡Öˆbòø(ª†Åê»bbë4âeäbê „yfŒæsŠ$ëDµ‰Ó¦êxé§ ×Ùê™Q.ñQ??Là-»šÉHâ‡]C#P3töÚ3tàY«€ ó@Nré¯&aı§œ5eD×h†‡#òáVó…9w ç*'Óº€è2Áu…›	Æéà<}$ı¡G¹0`¢GäbÆ­	óğ.²£$ ƒg›.¸Uß““@hùû›¨x ³*ó #! ÊõH¢È5É¼Ôì4S(ç¿d-Ù‚émÛ¶mÛ¶mÛ¶mÛ¶mÛ¶mÛ?cqû™O7ëFÚÄÈóØç11À»š#ÈÍÇ<é¼Ûà<4ú¡eŠØFÒSĞ[¥sıÔÃõèT›Y$|úB„ÌÖ?c*qÂjDÈ¨`¾úäÌb Ö'i#‡¢^4éÊQVİ·{fğ)–âá“¶c¤ĞŒTtv¢™‘­xÄiİtY`1ºAš-IT–¨bô^D_•Ïµ„pÒ«¥äwêoÀ$¿'ÓÖ	ÛTœ\}RÍ¬H˜wÅˆŒ\ı7µš¾jÖÅ:ãó`º6ãĞ‚8éŞvŞõË§
-xû€ey}yO—xù=¿]ãyŒçD{»Ä‘AİYÊ8'5…9×Œ‹¡³ğè	 è<NÀÿôƒˆ¡Ê%
-ˆñ9‹Ôê
-?qyo¤ƒº3X4•}òÔD3—q½Œ——×q9?|]ŸÆåÿìWÛrÛ:$ìTNRõòÿ_{lIv ìœ™Nû@d"‹q[,HÊmÇ__Ğq‡7¼7ŒwsjÅ0T‘-<ó+.ÈtÊ™½™3®jÏB”ä’ÿ%›ˆCÁ<4gÅ%¹g0œ%L'ö w¨²?Yì°·Ş/oŸ?3æŒÍµ@VP¹™3Áÿ³äŸ+P71¤ŒA•mD ô€°Ã«‚ñç—÷ 2	‘ãq{Ì´™2j[/X‡0CÎÖœûqÄ¤óz÷È°P;gûéÃÇå²gĞU¯wªÛ,<gpİÀ§oŸ1±.Í9gNANXYQ#ğxF:âŒº"=±™¬f ) gèOŸ €ÜîIì±7m§—Ûån—·oõŞ|!7†¡JxÒÃ$Ó¢Aˆ‚İÿáÌ)ÀR•43ÎP&3‰Pd+•}ÄÃXíÊÀEÇ²åt·½Z–#C³¶Ñ¤}_oÛğàÌ¯«r¦o«'Ú¤u–ÑÃ:ü’3Ä-¨±s†Q@›læE¥¨,Öú–ê«!6cå1y±ÉÀ@ÛFâ}ód'[µf.šò ÉCvtÎÜÏ4P'>6Cˆåäo-§Rp†­¾Æv?—M²¯À<Q—&‹“-áÙL<ÎXLÎœ1ASÍM…ŒÒb³g®íc…ï¦ûå3¾9(íAšá… ´ E
-ò„3?şö3å3RC³¬{‡;ãy‡”UúîĞ‚ôëçœI ±Ó²¶Î™÷ÛıÜ»¯Çå²®@ø¥‘ŒUà²ªƒÀxKÉ|3C4ÎeèÏÀ'“‚I	ÙRÙÚY²9bL26ÂLcæ5Õ%Àá”‚Šxlöwˆ†nÎ‰á›ç2àFı<C7ô;
-è Qœ'ÁZ@WŒüyX¦ºç L™2eÊ”)S¦L™2eÊ”)S¦LùWÄü’‡føsPùb¡¡Š¨‡›°°?±Æ÷†
-l§V6ëÇE£J:&·‘¿¦)¾| 3Fî/eRÏ³Ìà5±b$Aôø!D‰ŠÒƒÉg.1Aœ.•(\Jì
-Mª™L³–”ˆ–}D)‹y'Zğ“Ú‡ÙúüŒYrjVB~0ş
-i“¯Ãùş²„£¢0F\=w¹ı—+W+Õ+è„§ëL+bŠ”Ö±Ê1ß¢1*º²g¦šâQõxN'%RPù+œq3F£ıåUî‘ª)¬Ì¼‘&<1¨d«U«œ‰ûSÒ¡97A¹IªyYì<g‹8:ñ3ÊĞ+áOAñŠZğô~ùhí²Øí½ûø\íÚÚÕW¸ıb”R¹jqg÷õƒH´Õœ)4½ë›AÔEØşˆÆ¦“å3ZÉ´+V|%M”jÚ4Ô”ÔÁ!êh¥½;H°úÑÙÁ–¶.­İnm9Æ	ë¥-î8şš¯ô:ÖŒ£)zH_Ính¹{LÙ&%!úÃK5@k j¿Oj™3a+N4G(JI$¤ÖÑ—V…0!Â†s“–¡ÏÄkùÀ±lä°·?FŸ?3&@÷ùˆO5J´#¹9¹KÂìPQHŠŒo€ÂF1kVjd¿<	³3æ1Õİ™Åß[Îpd}U®h¾&:f¼šÔûvÁ¹ˆ”rîãI&³"ò3‹ıôñãrY3E‘¨€rö¸$|)sî€ºˆ€Ş0œ–•A¬³\ªu˜™`z¹”¿Xiœh”•™k®FhbôÁ<Šxø™"Îÿ¼½é~x¹Ÿ^n—c¼]Ş¾•{“I>€ªH°z2¤qF^õbÑãX„ ‰)T§šÒ‚•uK·‘ùx†úp4iÄ2TT’cgR¾	 $«ğ…“dÍíÓ¾¯·m|pæ×U9Ÿ‚h¯]²ş¥uæŒ6‰3ò,n
-Œ­‡?‰3DB4AHÓjz`Ğ0<_`àÈGA`:µ'Î˜¦‹CÎm¡´ÄÁ'u8FœYúİÎ‘Î™û™ÆßÕ3g
-q\Ef€M	\µGdD\…%).ô8“"JÁ—Ê|†Á¸šófTjM=†FÏÑÓ”´c%6ı'âVğ»3×ö±ÂwÓıò«$*KrqÑ‡VS9CMÛU„!ÇKáï:ÅNn®P Õ y"{ºÎÀ?v±–@†±ÚMÄÃ‚30	²v­Gğà"Xâ\âÌûí~îİÆ×ãrYW1×0&”å´¨?—CFºÎèä4-Qá¤À`yn(k˜ÓÜ²D©t©ÃŒ/‘aÒû7#Ì€¿ËÈlEœ %y<jÉ¦ĞèáÒtRãé"¥Ç@Rí bM™2eÊ”)S¦L™2eÊ”)Sş üşÛL™2eÊ”)S¦L™2eÊ¿-ÿ øÙO
-
-endstreamendobj10 0 obj<</Length 22537/Filter/FlateDecode/Width 564/Height 557/BitsPerComponent 4/ColorSpace 12 0 R/Type/XObject/Subtype/Image>>stream
-H‰ìWK-G°llNH '!±÷ ¦f	ìÀ–Œ@B0eÄ€°YC³ $˜!±*âœˆÌº}Û~ï¹+úö­[•™ñ9q"*Óì’Kşñ˜Ï/ĞH„Y~s
-4äùÏ©°m®Çl`y[	ãª}%fá1VsPöh;–fN7×*“c3¿'{@6F½#öšß†})9~–âûÈìŠ3ŞZv¸d¢#¦²ƒÏQy›wHWĞ&|y–È´V(\_	™ÒÌ•.…Â´2ã>xè¨:Cgd¶ˆ=ªécw‘9f•ëš ½N·Ö`ˆğI’·ÿrÙİÃã¡R+Ş†LSÈÄhÅ²¦è{)×ÃÇj(N†Lq¦.+·OÉé ßš[«·¬(švUÀ»Æ²{àíÎp¦”GˆO9{4wdÀ¤˜Ø¥å„Ü¬6º)¹ÍˆÎ¤aw=õSÕí‹3eŠ®c¼b¼t ¦İ°à\ºcİø6¿OÈ¤Ÿœö/™-9o“"3.r2@ûË2š|øN4¬uSævd6I*îÈ¸7¥™µÊÕC#è®‰3"=KÚ&N÷1ß‘É”wJ½óéO9ãdŒ‘3rxqFŞ¦ªNN8Ç¦­X¥\Q¨e¼dI¹©ì+Ú…İùníÈG§»©†ä¿FaÊIFkÇ¿WRùĞİJª¥âŠ©TÊ(YRNi"š3‡Ãù»ø@¢R¿5:Ô#cùÄ¿Æ#È¼™¹#ãÖ´•¯ş[°WÖè“7‰›3j%¶’%—­îœYàÀü>gèw9H&ë3œa r§œàcÛ«É‹!516^ïÈ,“.+¦S5Eå/UNö`gäš]ƒ/?OqWŠ’HEğ}Z·±†nÈX“5ò«õ—‚FÆÉ…&•T2|ùl­åŒL¨IgQQ^)z¢ÔÔ8^³Ôln»“¶uà3r`ª©Ş™±%#d€ÊÅSÎĞÌXu~ïÈtŠq¦Ì52Áf$²ĞI“³7ÈxĞ$d:—½õ¡-ß‘™¹| Å¬h¤¼Çä¹ñR˜õ$°9ú^MZ>È`òaè†Œm;=>	VS#cÑˆ›oõÑî,ïLÈ7¢Xæã·¯èİ¶|Ávd¨É›æ½¼âE#C×‚YIÊ_ì–ô%‘óÂ]núd~˜?£’Ò“Å8:=ñ–~î³»N5ùüG[<ô%KĞX®da°¨b2”SM½­Ç‚‰ÅU'cyQÛäJH×š=ÁÈµJ ,S#ÒWP]Ú†1l_9Bs1y#5Ú}‚òlhD†SÂct\rÉ%—\rÉ%ïô®’»GÉlPûHí9|MxÂ]¥k«7Vµ¹Ì§X'Êø*]ß,‰8¶„°µùÕ÷âL#ƒŞe¿yr,Ğ·®Hd"^,2,#Óégª©yÁV4S^ˆ€§ÏgtÊÚJˆgÀ—Å™8úÌsÈL	Y’XoÈÉ7"z¿L 9or¤ª‰?Ş¨Ÿ_¿TÄÇçÜk—“Ôá0‘yY/íg©]:°&,«ã&ğµûøfä«Îìxn¾‰¨RÑ+¨ÛM¿‡\ÍÆëŞa/Œ3Õy±=İûÑ~ó®v7>ç§K.¹ä’K.¹ä’K¾	‚u^Xw¸3…§ªÜ7Ö)K·µ­ÖŞz–ûÒ€eáíù‰¾ì÷7zLñzı&æ<j>‘GQ;Z3Ì7ÈÜ ıÖ
-x! y,"ê4å¦°™z]EÎÃˆ„ç‡§.R‡ÔÒâ­„¥hõ.Ì~?_EäÊ5êøÙI·:ZEÁá<“¢>F¢ğw‡íÂ@uçÒIZ‰eo½¤Ë?ûà·İ&\„P-¸úÇR,Ùã<…Ö,@äˆ€8#V¨´2İgŞFC/_wc™ÆZ±«8À™^tQ€]TÍ›ŸâÉh;~çœw¥š
-™oÿPá+Ê*Ÿ¬wŸéÆs`tügOÊ*ª°C5¥j!	½©Eé~7(ÃNŸ1VYAtC5ÖDU
-µXÒ,j>…€êjö­
-¬»·_*ğ÷>dB] n·(ˆÌ‘ñàëZá†j*X"Ó]É˜AÆúİÅÄ×Úÿ*È¯×¢¸Ú«8#
-ğİkÙfL½‘É4®¾¡fvB¦;ğ4®·]`öÓo}ÖÅïİWõ=ï‘ê£IœIh¼wÂA}Í‹P!ùè­OèÛ.‡›ûşçÆ›·v3ßû/ë‰ÕDĞ\ïyX3ëUÎÖâ¬*Hy5©wPj‚€eÿÓ{&oºŒÕäª=ÚIW²¢º8­u¥îø­»K.¹ä’K.¹ä’KşâÛÆuİaNKm²^çÆ[Á(œônåØæ‘ªÕ/åûDm&¥«¦Ôi$t{£v÷kw÷Ò±>÷¶¢§qló±G”ùû^/M^‡BYÙİ=u2¢NEùP'¯[XÚlQ™ëØñ\r¨nËÀ6åØàëÄ7~Ş×WÚ°œï3Ó‡›Á‰<@Úæ•0u“À“ g´h¨à”Ùrd&‘Aã³Í?·ü32+Àò‡Q¯÷¤0è9Nò–ê™W_©˜ìaùRÜ¿‚ñ ³“‡*4FF{ºhíùÅ†”¨;˜INyeöÇãö÷‹¡ÇgPÆfg÷Î µà«aöÅ&8sæÁ>|4"ßåp„²!#ººIÛ%"­{ç² QgÎ€¥eà¡éT8—™ûà7?öÇşºL»oÊßôß¾miÁfûF\°ÕÿTñ’&2ïƒ³±PtìÈ`CÆ“¬i>I-kSåÓ}ÎL5	™r#Àá(7d¾óÏı1¹còúŒÌY³«Şx©6€Êæs¤Ivf(Rê!O8SÈ ûhÁÆxÙ ±Øæ‡½9²a{¾‹ŒŠYz±Ã%¦nÈ|ô—Od^Û¤P,‰ŞµVh+qîì3IëD&fJ­Òôû¬Õô…ÑšÈœª)4YÈ¨ŸªÉ8ÿŒÌ‰óI5â[ÁkŒ¼¸-d~õï™ÄşZ&s;2ŸküTş¤ÂÛo8EcN#Õc¹“ÅÏ­ÏxÍn0NØ.r3(ÑKn+ÒJ ›Fæ¯ö§™_„P!sÂ¼ÈÑËê&Å=\r:‘æäˆ™i@"á*új{D¦WVk¨·‘¶\Àİ~(à“^d¼öAYAõ…Ì§Úö#.ó…¨”ŞåL3[ó tŞø$›
-s6ã»EÆÆEFº÷íƒ<Æ}çË£]9#ã­ÂÂUƒùÁÆ™¾ØÃ{ß³_şùñ_Ø‰FòYd¶,°gHÓÈ@şœÈÒmä•™ƒŞö¾R!`PY¹ 5!üÃæiû†¢ä¤U*c‡¤Şı9ûÕwíı×ñ»7d,ĞÑo¤zçLdæ¦W?‡LzîSRqL‰Ş.‰Ì±E4P®
-x)·|«Í¤ø¤qãrÖ¦Cğ¯ ¢îÊ'Gè)ªN<–Õ­‚èEÔÁ­ÀÈIqãø%—\rÉ%—\rÉ7@ww7˜rïñMÛDpBï¥­wÍÜÎöæWS¸Ó‚–Éïz§ö1 ×‚›@osm’Ûë^½Ğ—eœ¾ä4 fw¿«<©>?	š˜}n|C†˜˜Ÿ6œÑ®.L{[ïmh¿Ì‚ñ–î9È¤ÍvÆ.š«=«¶Ü¶Œûerßè@˜pqâô—šPîï0`Rî·Èø ãºÛùUÉC†ã¹ŒwS¥5”¯ÍWs¢^‘`ùß!”gh«[ü‚BfÁu6•Ó÷Qªı™ šàâÌñ 3zãáKÉ#ÁH²”g[i½Îohç¼ğÚ°ÇN{iÁ…‚5œ
-…€Î±uÙôêÎ„Àİ"”wœÒ®Çàí
-»®ß/Ì>úÄ>|e/™Ö:øèÁ>|¤Š Œg‡¼m%8øûUŒkIR+Ğ¬XXeJƒF+± .Î	„;XØ{ƒYœuñÒŞ .€´‚cŒB‚àb!Ñ•‘UİïÍàz5Ş{İ•Uåø±»á59t€lÍ(PGBèÜ‡T:sJ•`ö¹¯‚¬İÓ\ÅÁ8¼<²üÙÏ^¾~5ïGU´i{fæYÌXÓXIZic×RB-¥­i†Ì@
-¨u—Ô
-Y÷s43c­&Í©ÇÈÅ’iúqÙg„éO„Šz0ó»¿üğ·¯MT YÌ”Íb¦¤U”.Í€*8È®¹•öP™]CÂÉÏyõ¬Ì·ÕÄ¯Úµ¹ƒåäe×E…î]Üg,–ºG}wåÉW‘À‡[áDĞÁÌ¯ş9ğã7¯†‹EÃ¼µ“œVÓÛ1Ö\E€×ÁY÷fQ‹
-*8b‚õï´Ñ<zŞ4C!EPe…US.¤58T?Óa=7>XF°ÅÒÌW¿ó÷/ğôƒWU­›ÕÒï$ˆÌä‹AfjŸ˜‰’a‡™±M˜ ¹ëH»1b-à0ÆP©Ê×æ™™AfòÂÌÜöò´ÏP@JFø°snf`óë™ß>˜ùğ¼ÅÓ¿^ÕÊ¡LƒSÆL:¼š:Ñ˜‹ucDŞSffjYX3Wf‚+MA~—l3É·C3ãy,ÈE3EP­¦_N†¨â²_šùÚñ Oø~zÑP6\°Ê¥™aÅ'’™ª›§â$^33_NI	o“'fĞ7È+ Ø…ÒhÍ@!¥éwÛ¨™èı¬™A¹@ûƒÄ!f¾÷úùÇxú0Ë»˜ÁÊ)”¤j÷	™É•µXü@Ğ8q±²®k×ªB;İ±Ö÷•mÖËJl¹H3P“@fz&‚HŠ¬c7âÌTªd¤Êc
-æOcüoŸ>uŒµüwfÌÏip‘T50R2Eƒ×‘·”ù8ƒrºâ$‰jklP‰ª`Õ5-4A»‘‹flîX3¶o™O2c&…›.iÆã1ã1ã1ã1ş‡‡û¥­§EM¶sT”«SCävxôI6Ã6èvmv­j{^È;;çÕçîÏv\áÖ2ÙÇ_ ]44"¸É¼ êŞ›rOË\®õË]õ²¡nz™3Ê‚ç:N_!êjó(ø±|«)fû•Í{ºcö³…«{[ØqœŠˆ]¸¾·ˆ'w@ìÇ‹\b¿#bµùìğ»¾Îp¬f;¤ëäb	H
-Æ¶jØ¾šÛÁâä‚;¹I-Æ²|"Ç6g3èš»¸=3“fFúg›pÂ6èuè8è?œÊªa.PºÜa´`3³Cmx˜–»¸‹è‚a,‹¾ŒËw³uÑÌ<ñ¥aZ5O5µ°ÌâLkU¢öj*Ò¥ĞÕe5­D½{Ü_M·šAÆ»uœ­çÕtÃÌ}Íğ?&}‹~âXèƒ»f,f41ç£ÔŞ	¦8ëg´0GìÌ4k81ï¼ïDÄ8HW™±wf*§i¼1SpÈŒtXLèg8Ñ(4uS4eö‹g­&!O°r^¡ôBLzÖõ²VaT #’Onrz5È2$Åw#RìšI­>—ÚØ˜¡‡Í0-ùš˜®|ÔMÉ*`nšQ¨2"M˜¿Ÿ­¨J4¬™´Sbëëıˆg¯@Û;Ì¼Çüqf&¹Í˜h8ÅS¶v‰CÕ^Ìè­®U«Ÿ‰+.Å÷0Ãå¸AÑÈZew94“‹»33ƒèWÍ®™—`´½İ4ígf\!­Éff¥¨	šÛ³ÜĞ¹mÒú93w˜ÃÕ8²¹È7¥™ì
-g3>Ddï­¥µüÌÌqK3ö®Òü×š‘~7)üÈyÙøš=3Õiáì¶±AÑeS{wuœÒÌL¿£aÎV@Ôÿ3¡}Æ™Ğ‹“AÉÖÌT!añªÂåf&¦‚oêz1J¯-3¡Å³¤ß3õ…¨Mà>"Ç‰&·¢GË‡zÛ·oF‹lx5sÙ{Ş4¥ÿ#Œ¯Æ¢~¨>9só³h˜òªYó«3E-|?sÚqfSˆ¡3Æš£Ô
-
-\UJ1ï#b½V–9>Æc<Æc<Æc<ÆÿPã]]@ŒÕŒ¢ûf·mÒ3wµ‰²l·Ô^Ğ
-ñŸš÷šî/ÓıªÛæ¨gÂD>/Â8„¤º…ìDÎ±i‰nnÀn1ºÅQ2…)
-	L\¤Û,"kàúLx8].d9û7F*ŒWÒ×HW º446¨Wæğ/ÖÔ—ÇãßüêÆ¼)N®Ìıâ3H)¨¶ àG½’iYµKØ
-&Ê­ÍÊ¨§wIn†ì|¤T¨vû3Œ“Á°¢ñZôøH¨óà=f&‡óÁJCš“u‹‰ÌÃæüõ×Ê²M
-¤¸–ş6]n›_‰ÓIéã“1~y°şòÏ'vìŠqÌ•4H¾2†ËÈx<ÿ%¥àGs\[3“ãÄn	œ™©¥ÖŒÎ«‰¡,˜¡±ğîÓWùx"d@o~¼Ï?ÿîxñÑO^oÅ<	²¦Æ9È˜‘Â+-ä©$,şâ%Aã“f3DW¥38şÆL¡V(ï	±j4¯#§NÓÈ«„VÙšNÇe‰T0Gof¾ş×/O¼:MÎ‰ØõC­Šf-c:9¡…K33I“Üš¹0Ca»n¡f†Ò™T/å–ÑWDÇ«¾¹¿Ç–	™!£`lY‚šA½wf>øÍ›ãóYÃãF›Ú'ˆ²¸™E=x˜‹HŠQ­˜¬™–ÂÔc’'fÒ<úYá½jÆÁ­‹)ÿÆŞ_ØJ­Õk(ZºO˜ e9ÄÅ¹3óé?>¾0ƒÑo£êå»J8“kşƒ2­w¬æØşÎÌ+!ç]ÌP	3L•¯ )zËtPÆ2(A'4üîĞt3CKå12N¿¿Ì¼Áâùo” ï¨e2E9åÒS•·Ì9¡
-3ÍUvÊ¼43”ãfÊAjï8m0†PŞ74%+2zºwmYjõiÙ˜ùì àØg¾lf`İ¸/æj:("lÑĞA£¥¨H'f·Ìğ#˜×à›¢™‰“YBe€¶cjÇ ç³6™Õ?¶òÕôÚqˆ<ë&5£~­™ùÊ·ÆO¿xñÑş6ÌL¨bË³Ø/§ÙÁ@¥œ[˜l¥¿Cøbf°³<˜ ¹qP¼/É
-3b«wMoÍ”e&¯ê}ô3ß|Ïòåï°	ª?Ù	~Loiâ fÂA¥Ò(Å'I®fìb =A=Õš@r¡îÕÊfîYèA9³('oÚµó(dMMTˆn”%˜%Lr\†ì–fÈ~	pX.õ>QÊtQeQ«]H{Vø\‘j¶¥ôññññ0ØJEw—ÕÅUß3¿Ü;«Ë²å´qÛªfiŞÂêe»-ë®¾é?âd¹‚ºÇkÂªå“­26g
-@n~qgĞ ı»ÓÈ²;¡Ó³jª'-ó½CòS®u(Y¬!©§TëLà¨1úpC'«ªKêğÅ†UÁc`¡èésú/Ã­©eğı™ö8„®ÕŠƒõ: eT†> nÌÀ8xN¬hÍÌ	zÀƒtò0™¬:í¶â‹Â4Èr¸òŸ7£Ï‚3‡_t"*Ræ8·Ì¬4BQéŠbÉ—Ò’ßÜ³âÄLğ÷‰™ë“5ªîQ0çG‹@î¦P 6)«~Àò34ú†×O‰¨l55Ïq¶iúpŠÍÏ,&"3,®ÊğT«…WiªMƒ^5Àk +ŞD4UÇ¹)øQnğD]É6WbvŠ-i'åDÂeºÄËÙ“3H4_)é0áğRŸÈfĞ”{šQY†Ùk5IÉ­n2^äˆ´^TÒÌX?­™33ÿf¿ÜÒ\Ga ŒvPÚÿfÇÔEàœ·éy8_ètÛ€¤_%»*˜ŸŸª©-ñ6Şl‡Á± ×Ìø9³gÜ@Nˆ~Vn›L×æˆ»šêr2d(Rò©˜‹ŒÊ{'pGÀD,iÓKÃšjŠ‚.2^öŠw‘ŸKâ
-¤LbÏ´Çßv^12ãe½×‰Ñ?˜NiAk°ÿUp†Œ)h­22PÎ7Ã„Ö™¶TùR.¥¢£'ûú#™W»ÉLÚÑÀ‡LìŒı@†32ë¼²šŒu2ëZg<YÈ(ëC&è¡§£Ï'—-#®Çøj&úƒLªIõ‰ñx©$@ZÁ§„]»Éü9aÈĞ«ıèhFE`º£Š²‘,’ñk½ÇËk½3hãöo2åı"“&£ûÍÜv†L$³(ãC¦şU3…dşoÏMEÜd2Y¿ÈìîÚ‹Œú¶¾^dvÀ;ˆËÌú‹L½µk‚ki2¥‰ú&c;ëŠ_–\Mz¯d•­*8«ÒMÆNØliÚå™#ÀİŞùûYg&­°î¶ J†€¤ìØ™é4ìráÊÄ¾;9R –ÆÔâmÇÃp­3V>gÓ$Š÷ğ×İı¶úTŒ	—fu(Ë>ï—ˆh)¹äåÍ’¿0Õ4Ü1z}v7RÅv:yiIrlœºv †WJÃÛÇ)şoû¶oû¶oû¶oû¶¿£iß‰l´¹3ò¦:0ûÂko;7v?ğ™³¤‡gcÈC·sİŒ5£a¼ÙìŸg1çr«¯G»Æ“Ä˜™3c\8íêÿ¸xÄ¼ƒ|Nû÷—57êmt¿µg96
-ƒË'ˆZ“ç>.¼$7g‚Ós¿Ç3zòQS‰çÊ<ò#ÆñqŸŠ3OÍå#ô„W	{ù…Ù÷âaíÃÅñFı"³†|Q	”æJ¶yQ¥.˜àJz*gæS3:iX>>}|Ä¸ˆ	§VÈ\s÷·Šj—k(#/u
-ÀIâÈÓmk·.ëúÀI•ÒE½H(>èm=üâx9!ÂPGÓË@c#ŠdôâPnï9G—äpùÜÃvR•0ìÁ%Œû›‚<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-<title>ÌáÊ¾ĞÅÏ¢ -  ºèğÀÂÛÌ³ -  Ë¼¿Æ»ªÎª¼¼ÊõÉçÇø</title>
-<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
-
-<meta name="keywords" content="" />
-<meta name="description" content=",ºèğÀÂÛÌ³" />
-<meta name="generator" content="Discuz! X3" />
-<meta name="author" content="Discuz! Team and Comsenz UI Team" />
-<meta name="copyright" content="2001-2013 Comsenz Inc." />
-<meta name="MSSmartTagsPreventParsing" content="True" />
-<meta http-equiv="MSThemeCompatible" content="Yes" />
-<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?prr" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?prr" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'prr', charset = 'gbk', discuz_uid = '98838', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ºÃÆÀ¶È|µã,2|ºèğÀ±Ò|¸ö,5|ÍşÍû|µã,6|vip½ğ±Ò|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TlRGOE5qUTJNakU0Wm1KOE1UTTVNamMzT1RRMU0zdzVPRGd6T0h3eU56UTVPREU9JmNrPTZhNzYzZGM4', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
-<script src="data/cache/common.js?prr" type="text/javascript"></script>
-<meta name="application-name" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-tooltip" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-task" content="name=ºèğÀÂÛÌ³;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
-<meta name="msapplication-task" content="name=¼ÒÔ°;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="ºèğÀÂÛÌ³" href="http://bbs.hh010.com/archiver/" />
-<script src="data/cache/forum.js?prr" type="text/javascript"></script>
-</head>
-
-<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
-<div id="append_parent"></div><div id="ajaxwaitid"></div>
-<div id="toptb" class="cl">
-<div class="wp">
-<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">ÉèÎªÊ×Ò³</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, 'ºèğÀÂÛÌ³');return false;">ÊÕ²Ø±¾Õ¾</a><script type="text/javascript">var _speedMark = new Date();</script></div>
-<div class="y">
-<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="¿ªÆô¸¨Öú·ÃÎÊ" class="switchblind">¿ªÆô¸¨Öú·ÃÎÊ</a>
-<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="ÇĞ»»µ½¿í°æ" class="switchwidth">ÇĞ»»µ½¿í°æ</a>
-</div>
-</div>
-</div>
-
-<ul id="myprompt_menu" class="p_pop" style="display: none;">
-<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>ÏûÏ¢</a></li>
-
-<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>ĞÂÌıÖÚ</a></li>
-
-<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="Ôİ²»ÌáĞÑ"><em class="ignore_notice"></em></a></li>
-</ul>
-<div id="qmenu_menu" class="p_pop " style="display: none;">
-<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">Ìû×Ó</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">ºÃÓÑ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">Ñ«ÕÂ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">ÊÕ²Ø</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">ÈÎÎñ</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">ÌÔÌû</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">¹ã²¥</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">µ¼¶Á</a></li>
-<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">ÅÅĞĞ°ñ</a></li>
-</ul>
-<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/exam-service/hcies5.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
-<div class="wp">
-<div class="hdc cl"><h2><a href="./" title="ºèğÀÂÛÌ³"><img src="template/hh010/images/logo.gif" alt="ºèğÀÂÛÌ³" border="0" /></a></h2><div id="um">
-<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98838.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/88/38_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
-<p>
-<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98838.html" target="_blank" title="·ÃÎÊÎÒµÄ¿Õ¼ä"></a></strong>
-
-
-<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ°ó¶¨" /></a>
-
-<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">Âí¼×</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
-<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">ÉèÖÃ</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">ÏûÏ¢</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">ÌáĞÑ</a><span id="myprompt_check"></span>
-<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=baa7308d">ÍË³ö</a>
-</p>
-<p>
-<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">»ı·Ö: 0</a>
-<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">ÓÃ»§×é: ÓÎ¿Í</a>
-</p>
-</div>
-</div>
-
-<div id="nv">
-<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">¿ì½İµ¼º½</a>
-<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >ºèğÀÍø</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >ºèğÀÂÛÌ³<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="×îĞÂFTP×ÊÁÏ" target="_blank"  >FTP×ÊÁÏ<span>×îĞÂFTP×ÊÁÏ</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >¿¼µã²éÑ¯</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >ºèğÀÑ§Ôº</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >Êé¼®ÏÂÔØ</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">¸ü¶à</a></li></ul>
-</div>
-<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">Ã¿ÈÕÇ©µ½</a></li>
- </ul>
-<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >×ğ¹óVIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP×ÊÁÏ</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >Èº×é</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >ÅÅĞĞ°ñ</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >¼ÒÔ°</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >Ñ«ÕÂÖĞĞÄ</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >ÊÖ»ú¿Í»§¶Ë</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="È«Çòccie×ÜÈËÊı" target="_blank" >È«ÇòCCIEÅÅÃû</a></li><li><a href="vip.php" hidefocus="true" >VIPÖĞĞÄ</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >»ı·ÖÉÌ³Ç</a></li></ul><div id="mu" class="cl">
-</div><div id="scbar" class="scbar_narrow cl">
-<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
-<input type="hidden" name="mod" id="scbar_mod" value="search" />
-<input type="hidden" name="formhash" value="baa7308d" />
-<input type="hidden" name="srchtype" value="title" />
-<input type="hidden" name="srhfid" value="" />
-<input type="hidden" name="srhlocality" value="forum::attachment" />
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td class="scbar_icon_td"></td>
-<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="ÇëÊäÈëËÑË÷ÄÚÈİ" autocomplete="off" x-webkit-speech speech /></td>
-<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">ËÑË÷</a></td>
-<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">ËÑË÷</strong></button></td>
-<td class="scbar_hot_td">
-<div id="scbar_hot">
-<strong class="xw1">ÈÈËÑ: </strong>
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnpÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÍøÂç¹¤³ÌÊ¦'</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnaÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNAÌâ¿â</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏßÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ĞÅÓÃ¿¨</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÊÓÆµ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß¿ØÖÆÆ÷</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">Ë®¾§ÅÆ</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ãÆ»Ô</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÎŞÏß</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ÁõµÀ¾ü</a>
-
-
-
-<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=baa7308d&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
-
-</div>
-</td>
-</tr>
-</table>
-</form>
-</div>
-<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">Ìû×Ó</a></li><li><a href="javascript:;" rel="user">ÓÃ»§</a></li></ul>
-<script type="text/javascript">
-initSearchmenu('scbar', '');
-</script>
-</div>
-</div>
-
-
-<div id="wp" class="wp">
-<div id="ct" class="wp cl w">
-<div class="nfl">
-<div class="f_c altw">
-<div id="messagetext" class="alert_error">
-<p>±§Ç¸£¬Ô­¸½¼şÁ´½ÓÒÑÊ§Ğ§ <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NTF8M2MyNTRmMjB8MTQxMDY3NTA0NXw5ODgzOHwyNzQ5ODE%3D">[ µã»÷ÕâÀïÖØĞÂÏÂÔØ ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ µã»÷ÕâÀï²é¿´Ô­Ìû ]</a></p>
-<script type="text/javascript">
-if(history.length > (BROWSER.ie ? 0 : 1)) {
-document.write('<p class="alert_btnleft"><a href="javascript:history.back()">[ µã»÷ÕâÀï·µ»ØÉÏÒ»Ò³ ]</a></p>');
-} else {
-document.write('<p class="alert_btnleft"><a href="./">[ ºèğÀÂÛÌ³ Ê×Ò³ ]</a></p>');
-}
-</script>
-</div>
-</div>
-</div>
-</div></div>
- 
-     
-
-
-
-<link href="source/plugin/ukasky_livecontact/template/ukasky/image/common.css"	rel="stylesheet" type="text/css" />
-
-<style>
-<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-<title>ÌáÊ¾ĞÅÏ¢ -  ºèğÀÂÛÌ³ -  Ë¼¿Æ»ªÎª¼¼ÊõÉçÇø</title>
-<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
-
-<meta name="keywords" content="" />
-<meta name="description" content=",ºèğÀÂÛÌ³" />
-<meta name="generator" content="Discuz! X3" />
-<meta name="author" content="Discuz! Team and Comsenz UI Team" />
-<meta name="copyright" content="2001-2013 Comsenz Inc." />
-<meta name="MSSmartTagsPreventParsing" content="True" />
-<meta http-equiv="MSThemeCompatible" content="Yes" />
-<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?prr" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?prr" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'prr', charset = 'gbk', discuz_uid = '98838', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|ºÃÆÀ¶È|µã,2|ºèğÀ±Ò|¸ö,5|ÍşÍû|µã,6|vip½ğ±Ò|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TlRGOE5qUTJNakU0Wm1KOE1UTTVNamMzT1RRMU0zdzVPRGd6T0h3eU56UTVPREU9JmNrPTZhNzYzZGM4', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
-<script src="data/cache/common.js?prr" type="text/javascript"></script>
-<meta name="application-name" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-tooltip" content="ºèğÀÂÛÌ³" />
-<meta name="msapplication-task" content="name=ºèğÀÂÛÌ³;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
-<meta name="msapplication-task" content="name=¼ÒÔ°;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="ºèğÀÂÛÌ³" href="http://bbs.hh010.com/archiver/" />
-<script src="data/cache/forum.js?prr" type="text/javascript"></script>
-</head>
-
-<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
-<div id="append_parent"></div><div id="ajaxwaitid"></div>
-<div id="toptb" class="cl">
-<div class="wp">
-<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">ÉèÎªÊ×Ò³</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, 'ºèğÀÂÛÌ³');return false;">ÊÕ²Ø±¾Õ¾</a><script type="text/javascript">var _speedMark = new Date();</script></div>
-<div class="y">
-<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="¿ªÆô¸¨Öú·ÃÎÊ" class="switchblind">¿ªÆô¸¨Öú·ÃÎÊ</a>
-<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="ÇĞ»»µ½¿í°æ" class="switchwidth">ÇĞ»»µ½¿í°æ</a>
-</div>
-</div>
-</div>
-
-<ul id="myprompt_menu" class="p_pop" style="display: none;">
-<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>ÏûÏ¢</a></li>
-
-<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>ĞÂÌıÖÚ</a></li>
-
-<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="Ôİ²»ÌáĞÑ"><em class="ignore_notice"></em></a></li>
-</ul>
-<div id="qmenu_menu" class="p_pop " style="display: none;">
-<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">Ìû×Ó</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">ºÃÓÑ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">Ñ«ÕÂ</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">ÊÕ²Ø</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">ÈÎÎñ</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">ÌÔÌû</a></li>
-<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">¹ã²¥</a></li>
-<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">µ¼¶Á</a></li>
-<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">ÅÅĞĞ°ñ</a></li>
-</ul>
-<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/exam-service/hcies5.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
-<div class="wp">
-<div class="hdc cl"><h2><a href="./" title="ºèğÀÂÛÌ³"><img src="template/hh010/images/l
