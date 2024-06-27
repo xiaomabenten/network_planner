@@ -1,0 +1,979 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<title>系统提示_51CTO下载中心_IT技术资料免费下载</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<link href="http://down.51cto.com/css/Down_Head.css" rel="stylesheet" type="text/css" />
+<link href="http://down.51cto.com/css/" rel="stylesheet" type="text/css" />
+<script src="http://down.51cto.com/js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<link type="text/css" rel="stylesheet" href="http://down.51cto.com/css/header_master_top.css">
+
+<!-- --------------------Jaydar start-------------------------- -->
+<link type="text/css" href="/css/custom-theme/jquery-ui-1.8.21.custom.css?v=0.1" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="/service/doutip.srv.php"></script>
+<!-- --------------------Jaydar end-------------------------- -->
+
+<script src="http://down.51cto.com/js/message.js?v=0.5.7" type="text/javascript"></script>
+<script src="http://images.51cto.com/images/homepage/index_1_down.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".select_box input").click(function() {
+		var thisinput = jQuery(this);
+		var thisul = jQuery(this).parent().find("ul");
+		if (thisul.css("display") == "none") {
+			if (thisul.height() > 200) {
+				thisul.css({
+					height: "200" + "px",
+					"overflow-y": "scroll"
+				})
+			};
+			thisul.fadeIn("100");
+			thisul.hover(function() {},
+			function() {
+				thisul.fadeOut("100");
+			})
+			 thisul.find("li").click(function() {
+				thisinput.val(jQuery(this).text());
+				thisul.fadeOut("100");
+				jQuery('#f_type').attr('disabled', true);
+				switch (jQuery.trim(jQuery(this).text()))
+				　　 {　　
+				case '标签':
+					　　jQuery(this).closest("form").attr("action", '/tag_list.php');　　
+					break
+					　　
+				case '专题':
+					jQuery(this).closest("form").attr("action", '/special.php');　　
+					break
+				case '用户名':
+					jQuery(this).closest("form").attr("action", '/search.php');
+					jQuery('#f_type').attr('disabled', false).val('username');　
+					break
+					　　
+				default:
+					　jQuery(this).closest("form").attr("action", '/search.php');　　
+				}
+			}).hover(function() {
+				jQuery(this).addClass("hover");
+			},
+			function() {
+				jQuery(this).removeClass("hover");
+			});
+		}
+		 else {
+			thisul.fadeOut("fast");
+		}
+	})
+});
+</script>
+</head>
+
+<body>
+<div class="Nfloat" style="width:127px; height:197px;position: fixed;right: 2%;top: 35%;z-index: 801;" id="fullYearfloatPic">
+	<img width="127" border="0" src="http://img1.51cto.com/edu/images/floatpic.png" usemap="#Map">
+	<map name="Map" id="Map">
+	  <area shape="rect" coords="11,83,120,117" target="_blank" href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="6,120,119,144" target="_blank" href="http://edu.51cto.com/member/index.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="9,149,117,178" target="_blank" href="http://bbs.51cto.com/viewthread.php?tid=1113099&amp;page=1&amp;extra=#pid5675432" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="circle" coords="118,25,9" href="javascript:void(0);" onclick="document.getElementById('fullYearfloatPic').style.display='none';" onfocus="isfox ? void(0) : blur(this);">
+	</map>
+</div>
+<div style="text-align:center;margin:0px auto 2px auto;clear:both;background:url(http://home.51cto.com/public/images/notice/sogou_se_tgbar_bg_final1.gif) repeat-x;width:950px;color:#000;font-size:13px;height:36px;z-index:21474836471" id="sogou_se_tgbar"><div style="float:left;cursor:pointer;width:910px;text-align:center;border-left:solid #efbf00 1px;height:32px; line-height:32px;txt-align:center;"><span style=""><a href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html"target="_blank">庆51CTO学院一周年，IT精品课程疯狂购，全场课程5折，部分会员和套餐打8折哟！错过再等一年哟~>></a></span></div><div style="float:right;width:20px;cursor:pointer;height:28px;padding:4px 8px 0px 8px;border-right:solid #efbf00 1px" onclick="document.getElementById('sogou_se_tgbar').style.display = 'none';"><img src="http://home.51cto.com/public/images/notice/sogou_se_tgbar_close_final1.gif" style="border:none;margin:4px 0px 0px 0px;"></div></div>
+<div id="append_parent"></div>
+<div id="home_top">    <div class="top_nav">        <div class="left"><a target="_blank" href="http://www.51cto.com">51CTO首页</a><img height="25" align="absmiddle" width="16" style="padding-top: 2px;" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com/col/35/" onmouseout="popupClose();" onmouseover="show(1,this);">技术频道<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a><img height="25" align="absmiddle" width="16" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com" onmouseout="popupClose();" onmouseover="show(2,this);">51CTO旗下网站<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a><img height="25" align="absmiddle" width="16" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com/about/map.htm">地图</a>        </div>        <div class="right">            <div class="more"><img height="16" align="absmiddle" width="27" src="http://home.51cto.com/public/themes/blue/images/top_shequ.gif">社区：<a target="_blank" href="http://edu.51cto.com/">学院</a><a target="_blank" href="http://bbs.51cto.com">论坛</a><a target="_blank" href="http://blog.51cto.com">博客</a><a target="_blank" href="http://down.51cto.com">下载</a><a href="javascript:viod(0);" onmouseout="popupClose()" onmouseover="show(3,this)">更多<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a>            </div>            <span id="login_status"><div class="login" id="login_status"></div>    </span>                </div>    </div></div>
+<div class="subMenu1" id="s1" onmouseover="popupNoClose();" onmouseout="popupClose();">
+<ul>
+<li><a href="http://network.51cto.com" target="_blank">组网</a></li>
+<li><a href="http://netsecurity.51cto.com" target="_blank">安全</a></li>
+<li><a href="http://developer.51cto.com" target="_blank">开发</a></li>
+<li><a href="http://database.51cto.com" target="_blank">数据库</a></li>
+<li><a href="http://server.51cto.com" target="_blank">服务器</a></li>
+<li><a href="http://os.51cto.com" target="_blank">系统</a></li>
+<li><a href="http://virtual.51cto.com" target="_blank">虚拟化</a></li>
+<li><a href="http://cloud.51cto.com" target="_blank">云计算</a></li>
+<li><a href="http://developer.51cto.com/embed/" target="_blank">嵌入式</a></li>
+</ul>
+</div>
+
+<div class="subMenu2" id="s2" onmouseover="popupNoClose()" onmouseout="popupClose()">
+<ul>
+<li><a href="http://www.51cto.com" target="_blank" title="中国领先的IT技术网站">51CTO.COM</a></li>
+<li><a href="http://www.cioage.com" target="_blank" title="中国首个专门服务于CIO的专业网站">CIOage.com</a></li>
+<li><a href="http://www.watchstor.com/" target="_blank"  title="领先的中文存储网络媒体">WatchStor.com</a></li>
+<li><a href="http://www.hc3i.cn/" target="_blank"  title="中国首家专注于数字医疗及医疗信息化的专业网站">HC3i.cn</a></li>
+</ul>
+</div>
+
+<div class="subMenu3" id="s3" onmouseover="popupNoClose()" onmouseout="popupClose()">
+<ul>
+<li><a href="http://home.51cto.com" target="_blank">家园</a></li>
+<li><a href="http://edu.51cto.com" target="_blank">学院</a></li>
+<li><a href="http://blog.51cto.com" target="_blank">博客</a></li>
+<li><a href="http://bbs.51cto.com" target="_blank">论坛</a></li>
+<li><a href="http://down.51cto.com" target="_blank">下载</a></li>
+<li><a href="http://selftest.51cto.com" target="_blank">自测</a></li>
+<li><a href="http://doctor.51cto.com" target="_blank">门诊</a></li>
+<li><a href="http://blog.51cto.com/newsletter/" target="_blank">周刊</a></li>
+<li><a href="http://book.51cto.com" target="_blank">读书</a></li>
+<li><a href="http://g.51cto.com" target="_blank">技术圈</a></li>
+</ul>
+</div>
+
+<div id="head">
+
+<div style="position:relative;" class="subNav">
+    <div class="logo"> <a href="http://down.51cto.com/"> <img width="188" height="58" border="0" alt="51CTO下载中心_IT技术文档及软件免费下载_技术文档|方案|源码|软件|电子书" src="http://down.51cto.com/images/Down_logo.gif"> </a></div>
+    <div class="head_soso">
+      <div style="height:35px;">
+	  <script>
+		function chkForm(obj){if (obj.q.value=='' || obj.q.value=='请输入搜索关键词') {obj.q.value='请输入搜索关键词';return false;}}
+	  </script>
+	  <form action="/search.php" method="get" onSubmit="return chkForm(this)">
+        <div class="head_soso_01">
+          <input type="text" class="head_soso_01_text" id="top_search" name="q" onclick = "javascript:if (this.value=='请输入搜索关键词') this.value='' "  baidusug=2 value="" onclick="">
+		 <!-- <script charset="gbk" src="http://www.baidu.com/js/opensug.js"></script>-->
+          <div class="select_box">
+            <input type="text" readonly="readonly" value="全部资料" id="myselect">
+            <ul class="select_ul">
+			  <li>全部资料</li>
+              <li>专题</li> 
+			<li>标签</li>			  
+              <li>用户名</li>             
+            </ul>
+          </div>
+        </div>
+        <input type="hidden" id="f_type" name="f" disabled="disabled" />
+        <input type="submit" class="head_soso_search" value=" ">
+		</form>
+		</div>
+        <div class="head_soso_tag">官方推荐：<a style="color:red;" href="http://down.51cto.com/download.php?do=vip">购买下载VIP,优惠+一键下载</a> </div>
+        
+      
+    </div>
+    <span style="position:absolute; left: 717px; top: 24px; cursor:pointer;"><a href="/upload"><img width="112" height="36" onmouseout="this.src='http://down.51cto.com/images/upload_n.gif'" onmouseover="this.src='http://down.51cto.com/images/upload_h.gif'" src="http://down.51cto.com/images/upload_n.gif"></a></span>
+    <div style="PADDING-BOTTOM: 0pt; PADDING-LEFT: 10px; PADDING-RIGHT: 0pt; FLOAT: right; CURSOR: pointer; PADDING-TOP:5px;font-size:12px;"><a href="javascript:addFavor();" style="COLOR: #3b6c00">+ 收藏本站</a></div>
+  </div>
+  <p class="clear"></p>
+  
+<style type="text/css">
+.clear{ padding:0; margin:0; font-size:0; line-height:0; height:0; clear:both;}
+.hr12{height:12px;}
+#head {
+    font-family: 宋体;
+    margin: 0 auto 8px;
+    width: 960px;
+}
+#head .mininav {
+    background: url(/images/mininav_bg.gif) repeat scroll 0 0 transparent;
+    color: #BBBBBB;
+    height: 19px;
+    padding: 16px 10px 0 0;
+    text-align: right;
+}
+#head .mininav a {
+    color: #696969;
+    padding: 2px 3px 0;
+    text-decoration: none;
+}
+#head .mininav a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+#head .subNav {
+    background: url(/images/subNav_bg.gif) no-repeat scroll right center transparent;
+    height: 94px;
+}
+#head .subNav .logo {
+    float: left;
+    height: 58px;
+    padding: 19px 0 0 15px;
+    width: 188px;
+}
+#head .subNav .daohang {
+    color: #3B6C00;
+    float: right;
+    height: 30px;
+    padding: 26px 10px 0 0;
+    width: 345px;
+}
+#head .subNav .daohang span {
+    padding-right: 12px;
+}
+#head .subNav .daohang a {
+    color: #3B6C00;
+    padding: 0 5px;
+    text-decoration: none;
+}
+#head .subNav .daohang a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+.head_soso{width:410px; height:70px; padding-top:25px; float:left; margin-left:60px;}
+.head_soso_01{ float:left; background:url(/images/re_sosobg.jpg) no-repeat; width:350px; height:34px;}
+.head_soso_01_text{ border:none; background:none;float:left;width:260px; height:34px;color:#000; line-height:34px; padding:0 5px;}
+.head_soso_search{ border:none; background:none; cursor:pointer;float:left; background:url(/images/re_sosobtn.jpg) no-repeat; width:56px; height:34px; }
+.select_box { float:left;width:70px; height:30px; margin-top:2px; position:relative; background:#fafafa;}
+.submit_box {width:80px; position:relative; padding:0; font-size:12px; text-align:center;}
+.soso_leftlist ul.ul02 li a:link,.soso_leftlist ul.ul02 li a:visited,.relate_date_tit a:link,.relate_date_tit a:visited,.head_soso_tag a:link,.head_soso_tag a:visited{color:#999;}
+.soso_leftlist ul.ul02 li a:hover,.relate_date ul li p a:hover,.relate_date_tit a:hover,.head_soso_tag a:hover{ color:#cc0000;}
+.soso_leftlist ul.ul02 li a:active,.relate_date_tit a:active,.head_soso_tag a:active{color:#999;}
+.head_soso_tag{clear:left;}
+.select_box input {cursor:pointer; display:block; line-height:28px; width:100%; height:28px; overflow:hidden;border:none;background:none; padding:0 2px 0 5px;  background: url(/images/select_bg.gif) no-repeat right top; color:#999;}
+.select_box ul {width:80px; position:absolute; left:0; top:30px;background:#fff; overflow: hidden;display:none; background:#ebebeb; z-index:99999;}
+.select_box ul li {display:block;height:30px;overflow:hidden;line-height:30px;padding-left:5px;width:100%;cursor:pointer;}
+.bdSug_app{display:none;}
+.head_soso_tag {
+    color: #999999;
+    line-height: 25px;
+    text-align: left;
+}
+.data_name span.name a{display:inline-block;}
+</style>
+
+
+<div class="banner_head" style="display:block">
+<!--
+<script type="text/javascript">
+/*960*90，创建于2013-9-23下载列表页头部通栏*/
+var cpro_id = "u1373141";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+
+
+
+<!-- <a href="http://edu.51cto.com/course/course_id-1185.html" target="_blank"><img src="/images/edutonglan.jpg"></a> -->
+</div>
+
+
+
+<div class="nav"><a  href="http://down.51cto.com">首 页</a><a href="http://down.51cto.com/zt" >下载专题</a><a onmouseover="jsddm_open(3, this)" onmouseout="jsddm_timer()" href="http://down.51cto.com/detail" >分类搜索</a><a href="http://down.51cto.com/commend" >推荐下载</a><a href="http://down.51cto.com/download.php?do=vip" target="_blank" >VIP专区</a><a href="http://down.51cto.com/rank/" >用户榜</a> <a href="http://edu.51cto.com/" target="_blank" style="color:#FA3737;">51CTO学院</a></div>
+
+<div class="navd" id="jdddm_id3" style="display:none;" onmouseover="jsddm_canceltimer()" onmouseout="jsddm_timer()">
+<img src="http://down.51cto.com/images/nav_line.jpg" width="592" height="9" /><div class="listnav">
+<div class="listnav_z">
+<ul>
+<li><strong>技术分类</strong></li>
+
+</ul>
+<div class="clear"></div>
+</div>
+<div class="listnav_y">
+<ul>
+
+</ul>
+<div class="clear"></div>
+<div class="search0"><a href="http://down.51cto.com/detail">按资料属性搜索</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://down.51cto.com/detail">按企业分类搜索</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://down.51cto.com/detail">按行业分类搜索</a></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+
+
+
+
+<div class="tag"><dl>
+
+<dt><a href="http://down.51cto.com">首页</a> > <a href='http://down.51cto.com/detail'>下载资源列表</a> > 系统提示</dt>
+<dd>
+
+ <a href="http://bbs.51cto.com/forum-324-1.html" target="_blank"><u>反馈</u></a>
+
+</dd>
+</dl></div>
+
+
+</div>
+<div id="dw_loginform" align="center" style="display:none;">
+<div class="albumalert">
+<div class="alerttitle"><span style="float:left;width:80%;color:#000;font-weight:700" id="dw_loginform_title">登录</span><span style="float:right;width:5%;"><a href="" onclick="document.getElementById('dw_loginform').style.display='none';return false;"><img src="http://img1.51cto.com/images/pic/alertcolse.gif" border="0"></a></span></div>
+<div class="alertcentent">
+<a href="http://home<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<title>系统提示_51CTO下载中心_IT技术资料免费下载</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<link href="http://down.51cto.com/css/Down_Head.css" rel="stylesheet" type="text/css" />
+<link href="http://down.51cto.com/css/" rel="stylesheet" type="text/css" />
+<script src="http://down.51cto.com/js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<link type="text/css" rel="stylesheet" href="http://down.51cto.com/css/header_master_top.css">
+
+<!-- --------------------Jaydar start-------------------------- -->
+<link type="text/css" href="/css/custom-theme/jquery-ui-1.8.21.custom.css?v=0.1" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="/service/doutip.srv.php"></script>
+<!-- --------------------Jaydar end-------------------------- -->
+
+<script src="http://down.51cto.com/js/message.js?v=0.5.7" type="text/javascript"></script>
+<script src="http://images.51cto.com/images/homepage/index_1_down.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".select_box input").click(function() {
+		var thisinput = jQuery(this);
+		var thisul = jQuery(this).parent().find("ul");
+		if (thisul.css("display") == "none") {
+			if (thisul.height() > 200) {
+				thisul.css({
+					height: "200" + "px",
+					"overflow-y": "scroll"
+				})
+			};
+			thisul.fadeIn("100");
+			thisul.hover(function() {},
+			function() {
+				thisul.fadeOut("100");
+			})
+			 thisul.find("li").click(function() {
+				thisinput.val(jQuery(this).text());
+				thisul.fadeOut("100");
+				jQuery('#f_type').attr('disabled', true);
+				switch (jQuery.trim(jQuery(this).text()))
+				　　 {　　
+				case '标签':
+					　　jQuery(this).closest("form").attr("action", '/tag_list.php');　　
+					break
+					　　
+				case '专题':
+					jQuery(this).closest("form").attr("action", '/special.php');　　
+					break
+				case '用户名':
+					jQuery(this).closest("form").attr("action", '/search.php');
+					jQuery('#f_type').attr('disabled', false).val('username');　
+					break
+					　　
+				default:
+					　jQuery(this).closest("form").attr("action", '/search.php');　　
+				}
+			}).hover(function() {
+				jQuery(this).addClass("hover");
+			},
+			function() {
+				jQuery(this).removeClass("hover");
+			});
+		}
+		 else {
+			thisul.fadeOut("fast");
+		}
+	})
+});
+</script>
+</head>
+
+<body>
+<div class="Nfloat" style="width:127px; height:197px;position: fixed;right: 2%;top: 35%;z-index: 801;" id="fullYearfloatPic">
+	<img width="127" border="0" src="http://img1.51cto.com/edu/images/floatpic.png" usemap="#Map">
+	<map name="Map" id="Map">
+	  <area shape="rect" coords="11,83,120,117" target="_blank" href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="6,120,119,144" target="_blank" href="http://edu.51cto.com/member/index.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="9,149,117,178" target="_blank" href="http://bbs.51cto.com/viewthread.php?tid=1113099&amp;page=1&amp;extra=#pid5675432" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="circle" coords="118,25,9" href="javascript:void(0);" onclick="document.getElementById('fullYearfloatPic').style.display='none';" onfocus="isfox ? void(0) : blur(this);">
+	</map>
+</div>
+<div style="text-align:center;margin:0px auto 2px auto;clear:both;background:url(http://home.51cto.com/public/images/notice/sogou_se_tgbar_bg_final1.gif) repeat-x;width:950px;color:#000;font-size:13px;height:36px;z-index:21474836471" id="sogou_se_tgbar"><div style="float:left;cursor:pointer;width:910px;text-align:center;border-left:solid #efbf00 1px;height:32px; line-height:32px;txt-align:center;"><span style=""><a href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html"target="_blank">庆51CTO学院一周年，IT精品课程疯狂购，全场课程5折，部分会员和套餐打8折哟！错过再等一年哟~>></a></span></div><div style="float:right;width:20px;cursor:pointer;height:28px;padding:4px 8px 0px 8px;border-right:solid #efbf00 1px" onclick="document.getElementById('sogou_se_tgbar').style.display = 'none';"><img src="http://home.51cto.com/public/images/notice/sogou_se_tgbar_close_final1.gif" style="border:none;margin:4px 0px 0px 0px;"></div></div>
+<div id="append_parent"></div>
+<div id="home_top">    <div class="top_nav">        <div class="left"><a target="_blank" href="http://www.51cto.com">51CTO首页</a><img height="25" align="absmiddle" width="16" style="padding-top: 2px;" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com/col/35/" onmouseout="popupClose();" onmouseover="show(1,this);">技术频道<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a><img height="25" align="absmiddle" width="16" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com" onmouseout="popupClose();" onmouseover="show(2,this);">51CTO旗下网站<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a><img height="25" align="absmiddle" width="16" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com/about/map.htm">地图</a>        </div>        <div class="right">            <div class="more"><img height="16" align="absmiddle" width="27" src="http://home.51cto.com/public/themes/blue/images/top_shequ.gif">社区：<a target="_blank" href="http://edu.51cto.com/">学院</a><a target="_blank" href="http://bbs.51cto.com">论坛</a><a target="_blank" href="http://blog.51cto.com">博客</a><a target="_blank" href="http://down.51cto.com">下载</a><a href="javascript:viod(0);" onmouseout="popupClose()" onmouseover="show(3,this)">更多<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a>            </div>            <span id="login_status"><div class="login" id="login_status"></div>    </span>                </div>    </div></div>
+<div class="subMenu1" id="s1" onmouseover="popupNoClose();" onmouseout="popupClose();">
+<ul>
+<li><a href="http://network.51cto.com" target="_blank">组网</a></li>
+<li><a href="http://netsecurity.51cto.com" target="_blank">安全</a></li>
+<li><a href="http://developer.51cto.com" target="_blank">开发</a></li>
+<li><a href="http://database.51cto.com" target="_blank">数据库</a></li>
+<li><a href="http://server.51cto.com" target="_blank">服务器</a></li>
+<li><a href="http://os.51cto.com" target="_blank">系统</a></li>
+<li><a href="http://virtual.51cto.com" target="_blank">虚拟化</a></li>
+<li><a href="http://cloud.51cto.com" target="_blank">云计算</a></li>
+<li><a href="http://developer.51cto.com/embed/" target="_blank">嵌入式</a></li>
+</ul>
+</div>
+
+<div class="subMenu2" id="s2" onmouseover="popupNoClose()" onmouseout="popupClose()">
+<ul>
+<li><a href="http://www.51cto.com" target="_blank" title="中国领先的IT技术网站">51CTO.COM</a></li>
+<li><a href="http://www.cioage.com" target="_blank" title="中国首个专门服务于CIO的专业网站">CIOage.com</a></li>
+<li><a href="http://www.watchstor.com/" target="_blank"  title="领先的中文存储网络媒体">WatchStor.com</a></li>
+<li><a href="http://www.hc3i.cn/" target="_blank"  title="中国首家专注于数字医疗及医疗信息化的专业网站">HC3i.cn</a></li>
+</ul>
+</div>
+
+<div class="subMenu3" id="s3" onmouseover="popupNoClose()" onmouseout="popupClose()">
+<ul>
+<li><a href="http://home.51cto.com" target="_blank">家园</a></li>
+<li><a href="http://edu.51cto.com" target="_blank">学院</a></li>
+<li><a href="http://blog.51cto.com" target="_blank">博客</a></li>
+<li><a href="http://bbs.51cto.com" target="_blank">论坛</a></li>
+<li><a href="http://down.51cto.com" target="_blank">下载</a></li>
+<li><a href="http://selftest.51cto.com" target="_blank">自测</a></li>
+<li><a href="http://doctor.51cto.com" target="_blank">门诊</a></li>
+<li><a href="http://blog.51cto.com/newsletter/" target="_blank">周刊</a></li>
+<li><a href="http://book.51cto.com" target="_blank">读书</a></li>
+<li><a href="http://g.51cto.com" target="_blank">技术圈</a></li>
+</ul>
+</div>
+
+<div id="head">
+
+<div style="position:relative;" class="subNav">
+    <div class="logo"> <a href="http://down.51cto.com/"> <img width="188" height="58" border="0" alt="51CTO下载中心_IT技术文档及软件免费下载_技术文档|方案|源码|软件|电子书" src="http://down.51cto.com/images/Down_logo.gif"> </a></div>
+    <div class="head_soso">
+      <div style="height:35px;">
+	  <script>
+		function chkForm(obj){if (obj.q.value=='' || obj.q.value=='请输入搜索关键词') {obj.q.value='请输入搜索关键词';return false;}}
+	  </script>
+	  <form action="/search.php" method="get" onSubmit="return chkForm(this)">
+        <div class="head_soso_01">
+          <input type="text" class="head_soso_01_text" id="top_search" name="q" onclick = "javascript:if (this.value=='请输入搜索关键词') this.value='' "  baidusug=2 value="" onclick="">
+		 <!-- <script charset="gbk" src="http://www.baidu.com/js/opensug.js"></script>-->
+          <div class="select_box">
+            <input type="text" readonly="readonly" value="全部资料" id="myselect">
+            <ul class="select_ul">
+			  <li>全部资料</li>
+              <li>专题</li> 
+			<li>标签</li>			  
+              <li>用户名</li>             
+            </ul>
+          </div>
+        </div>
+        <input type="hidden" id="f_type" name="f" disabled="disabled" />
+        <input type="submit" class="head_soso_search" value=" ">
+		</form>
+		</div>
+        <div class="head_soso_tag">官方推荐：<a style="color:red;" href="http://down.51cto.com/download.php?do=vip">购买下载VIP,优惠+一键下载</a> </div>
+        
+      
+    </div>
+    <span style="position:absolute; left: 717px; top: 24px; cursor:pointer;"><a href="/upload"><img width="112" height="36" onmouseout="this.src='http://down.51cto.com/images/upload_n.gif'" onmouseover="this.src='http://down.51cto.com/images/upload_h.gif'" src="http://down.51cto.com/images/upload_n.gif"></a></span>
+    <div style="PADDING-BOTTOM: 0pt; PADDING-LEFT: 10px; PADDING-RIGHT: 0pt; FLOAT: right; CURSOR: pointer; PADDING-TOP:5px;font-size:12px;"><a href="javascript:addFavor();" style="COLOR: #3b6c00">+ 收藏本站</a></div>
+  </div>
+  <p class="clear"></p>
+  
+<style type="text/css">
+.clear{ padding:0; margin:0; font-size:0; line-height:0; height:0; clear:both;}
+.hr12{height:12px;}
+#head {
+    font-family: 宋体;
+    margin: 0 auto 8px;
+    width: 960px;
+}
+#head .mininav {
+    background: url(/images/mininav_bg.gif) repeat scroll 0 0 transparent;
+    color: #BBBBBB;
+    height: 19px;
+    padding: 16px 10px 0 0;
+    text-align: right;
+}
+#head .mininav a {
+    color: #696969;
+    padding: 2px 3px 0;
+    text-decoration: none;
+}
+#head .mininav a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+#head .subNav {
+    background: url(/images/subNav_bg.gif) no-repeat scroll right center transparent;
+    height: 94px;
+}
+#head .subNav .logo {
+    float: left;
+    height: 58px;
+    padding: 19px 0 0 15px;
+    width: 188px;
+}
+#head .subNav .daohang {
+    color: #3B6C00;
+    float: right;
+    height: 30px;
+    padding: 26px 10px 0 0;
+    width: 345px;
+}
+#head .subNav .daohang span {
+    padding-right: 12px;
+}
+#head .subNav .daohang a {
+    color: #3B6C00;
+    padding: 0 5px;
+    text-decoration: none;
+}
+#head .subNav .daohang a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+.head_soso{width:410px; height:70px; padding-top:25px; float:left; margin-left:60px;}
+.head_soso_01{ float:left; background:url(/images/re_sosobg.jpg) no-repeat; width:350px; height:34px;}
+.head_soso_01_text{ border:none; background:none;float:left;width:260px; height:34px;color:#000; line-height:34px; padding:0 5px;}
+.head_soso_search{ border:none; background:none; cursor:pointer;float:left; background:url(/images/re_sosobtn.jpg) no-repeat; width:56px; height:34px; }
+.select_box { float:left;width:70px; height:30px; margin-top:2px; position:relative; background:#fafafa;}
+.submit_box {width:80px; position:relative; padding:0; font-size:12px; text-align:center;}
+.soso_leftlist ul.ul02 li a:link,.soso_leftlist ul.ul02 li a:visited,.relate_date_tit a:link,.relate_date_tit a:visited,.head_soso_tag a:link,.head_soso_tag a:visited{color:#999;}
+.soso_leftlist ul.ul02 li a:hover,.relate_date ul li p a:hover,.relate_date_tit a:hover,.head_soso_tag a:hover{ color:#cc0000;}
+.soso_leftlist ul.ul02 li a:active,.relate_date_tit a:active,.head_soso_tag a:active{color:#999;}
+.head_soso_tag{clear:left;}
+.select_box input {cursor:pointer; display:block; line-height:28px; width:100%; height:28px; overflow:hidden;border:none;background:none; padding:0 2px 0 5px;  background: url(/images/select_bg.gif) no-repeat right top; color:#999;}
+.select_box ul {width:80px; position:absolute; left:0; top:30px;background:#fff; overflow: hidden;display:none; background:#ebebeb; z-index:99999;}
+.select_box ul li {display:block;height:30px;overflow:hidden;line-height:30px;padding-left:5px;width:100%;cursor:pointer;}
+.bdSug_app{display:none;}
+.head_soso_tag {
+    color: #999999;
+    line-height: 25px;
+    text-align: left;
+}
+.data_name span.name a{display:inline-block;}
+</style>
+
+
+<div class="banner_head" style="display:block">
+<!--
+<script type="text/javascript">
+/*960*90，创建于2013-9-23下载列表页头部通栏*/
+var cpro_id = "u1373141";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+
+
+
+<!-- <a href="http://edu.51cto.com/course/course_id-1185.html" target="_blank"><img src="/images/edutonglan.jpg"></a> -->
+</div>
+
+
+
+<div class="nav"><a  href="http://down.51cto.com">首 页</a><a href="http://down.51cto.com/zt" >下载专题</a><a onmouseover="jsddm_open(3, this)" onmouseout="jsddm_timer()" href="http://down.51cto.com/detail" >分类搜索</a><a href="http://down.51cto.com/commend" >推荐下载</a><a href="http://down.51cto.com/download.php?do=vip" target="_blank" >VIP专区</a><a href="http://down.51cto.com/rank/" >用户榜</a> <a href="http://edu.51cto.com/" target="_blank" style="color:#FA3737;">51CTO学院</a></div>
+
+<div class="navd" id="jdddm_id3" style="display:none;" onmouseover="jsddm_canceltimer()" onmouseout="jsddm_timer()">
+<img src="http://down.51cto.com/images/nav_line.jpg" width="592" height="9" /><div class="listnav">
+<div class="listnav_z">
+<ul>
+<li><strong>技术分类</strong></li>
+
+</ul>
+<div class="clear"></div>
+</div>
+<div class="listnav_y">
+<ul>
+
+</ul>
+<div class="clear"></div>
+<div class="search0"><a href="http://down.51cto.com/detail">按资料属性搜索</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://down.51cto.com/detail">按企业分类搜索</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://down.51cto.com/detail">按行业分类搜索</a></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+
+
+
+
+<div class="tag"><dl>
+
+<dt><a href="http://down.51cto.com">首页</a> > <a href='http://down.51cto.com/detail'>下载资源列表</a> > 系统提示</dt>
+<dd>
+
+ <a href="http://bbs.51cto.com/forum-324-1.html" target="_blank"><u>反馈</u></a>
+
+</dd>
+</dl></div>
+
+
+</div>
+<div id="dw_loginform" align="center" style="display:none;">
+<div class="albumalert">
+<div class="alerttitle"><span style="float:left;width:80%;color:#000;font-weight:700" id="dw_loginform_title">登录</span><span style="float:right;width:5%;"><a href="" onclick="document.getElementById('dw_loginform').style.display='none';return false;"><img src="http://img1.51cto.com/images/pic/alertcolse.gif" border="0"></a></span></div>
+<div class="alertcentent">
+<a href="http://home<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<title>系统提示_51CTO下载中心_IT技术资料免费下载</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<link href="http://down.51cto.com/css/Down_Head.css" rel="stylesheet" type="text/css" />
+<link href="http://down.51cto.com/css/" rel="stylesheet" type="text/css" />
+<script src="http://down.51cto.com/js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<link type="text/css" rel="stylesheet" href="http://down.51cto.com/css/header_master_top.css">
+
+<!-- --------------------Jaydar start-------------------------- -->
+<link type="text/css" href="/css/custom-theme/jquery-ui-1.8.21.custom.css?v=0.1" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="/service/doutip.srv.php"></script>
+<!-- --------------------Jaydar end-------------------------- -->
+
+<script src="http://down.51cto.com/js/message.js?v=0.5.7" type="text/javascript"></script>
+<script src="http://images.51cto.com/images/homepage/index_1_down.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".select_box input").click(function() {
+		var thisinput = jQuery(this);
+		var thisul = jQuery(this).parent().find("ul");
+		if (thisul.css("display") == "none") {
+			if (thisul.height() > 200) {
+				thisul.css({
+					height: "200" + "px",
+					"overflow-y": "scroll"
+				})
+			};
+			thisul.fadeIn("100");
+			thisul.hover(function() {},
+			function() {
+				thisul.fadeOut("100");
+			})
+			 thisul.find("li").click(function() {
+				thisinput.val(jQuery(this).text());
+				thisul.fadeOut("100");
+				jQuery('#f_type').attr('disabled', true);
+				switch (jQuery.trim(jQuery(this).text()))
+				　　 {　　
+				case '标签':
+					　　jQuery(this).closest("form").attr("action", '/tag_list.php');　　
+					break
+					　　
+				case '专题':
+					jQuery(this).closest("form").attr("action", '/special.php');　　
+					break
+				case '用户名':
+					jQuery(this).closest("form").attr("action", '/search.php');
+					jQuery('#f_type').attr('disabled', false).val('username');　
+					break
+					　　
+				default:
+					　jQuery(this).closest("form").attr("action", '/search.php');　　
+				}
+			}).hover(function() {
+				jQuery(this).addClass("hover");
+			},
+			function() {
+				jQuery(this).removeClass("hover");
+			});
+		}
+		 else {
+			thisul.fadeOut("fast");
+		}
+	})
+});
+</script>
+</head>
+
+<body>
+<div class="Nfloat" style="width:127px; height:197px;position: fixed;right: 2%;top: 35%;z-index: 801;" id="fullYearfloatPic">
+	<img width="127" border="0" src="http://img1.51cto.com/edu/images/floatpic.png" usemap="#Map">
+	<map name="Map" id="Map">
+	  <area shape="rect" coords="11,83,120,117" target="_blank" href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="6,120,119,144" target="_blank" href="http://edu.51cto.com/member/index.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="9,149,117,178" target="_blank" href="http://bbs.51cto.com/viewthread.php?tid=1113099&amp;page=1&amp;extra=#pid5675432" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="circle" coords="118,25,9" href="javascript:void(0);" onclick="document.getElementById('fullYearfloatPic').style.display='none';" onfocus="isfox ? void(0) : blur(this);">
+	</map>
+</div>
+<div style="text-align:center;margin:0px auto 2px auto;clear:both;background:url(http://home.51cto.com/public/images/notice/sogou_se_tgbar_bg_final1.gif) repeat-x;width:950px;color:#000;font-size:13px;height:36px;z-index:21474836471" id="sogou_se_tgbar"><div style="float:left;cursor:pointer;width:910px;text-align:center;border-left:solid #efbf00 1px;height:32px; line-height:32px;txt-align:center;"><span style=""><a href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html"target="_blank">庆51CTO学院一周年，IT精品课程疯狂购，全场课程5折，部分会员和套餐打8折哟！错过再等一年哟~>></a></span></div><div style="float:right;width:20px;cursor:pointer;height:28px;padding:4px 8px 0px 8px;border-right:solid #efbf00 1px" onclick="document.getElementById('sogou_se_tgbar').style.display = 'none';"><img src="http://home.51cto.com/public/images/notice/sogou_se_tgbar_close_final1.gif" style="border:none;margin:4px 0px 0px 0px;"></div></div>
+<div id="append_parent"></div>
+<div id="home_top">    <div class="top_nav">        <div class="left"><a target="_blank" href="http://www.51cto.com">51CTO首页</a><img height="25" align="absmiddle" width="16" style="padding-top: 2px;" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com/col/35/" onmouseout="popupClose();" onmouseover="show(1,this);">技术频道<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a><img height="25" align="absmiddle" width="16" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com" onmouseout="popupClose();" onmouseover="show(2,this);">51CTO旗下网站<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a><img height="25" align="absmiddle" width="16" src="http://home.51cto.com/public/themes/blue/images/top_bg_xian.gif"><a target="_blank" href="http://www.51cto.com/about/map.htm">地图</a>        </div>        <div class="right">            <div class="more"><img height="16" align="absmiddle" width="27" src="http://home.51cto.com/public/themes/blue/images/top_shequ.gif">社区：<a target="_blank" href="http://edu.51cto.com/">学院</a><a target="_blank" href="http://bbs.51cto.com">论坛</a><a target="_blank" href="http://blog.51cto.com">博客</a><a target="_blank" href="http://down.51cto.com">下载</a><a href="javascript:viod(0);" onmouseout="popupClose()" onmouseover="show(3,this)">更多<img align="absmiddle" style="padding-left: 4px;" src="http://images.51cto.com/images/art/top_images/nav_ico1.gif"></a>            </div>            <span id="login_status"><div class="login" id="login_status"></div>    </span>                </div>    </div></div>
+<div class="subMenu1" id="s1" onmouseover="popupNoClose();" onmouseout="popupClose();">
+<ul>
+<li><a href="http://network.51cto.com" target="_blank">组网</a></li>
+<li><a href="http://netsecurity.51cto.com" target="_blank">安全</a></li>
+<li><a href="http://developer.51cto.com" target="_blank">开发</a></li>
+<li><a href="http://database.51cto.com" target="_blank">数据库</a></li>
+<li><a href="http://server.51cto.com" target="_blank">服务器</a></li>
+<li><a href="http://os.51cto.com" target="_blank">系统</a></li>
+<li><a href="http://virtual.51cto.com" target="_blank">虚拟化</a></li>
+<li><a href="http://cloud.51cto.com" target="_blank">云计算</a></li>
+<li><a href="http://developer.51cto.com/embed/" target="_blank">嵌入式</a></li>
+</ul>
+</div>
+
+<div class="subMenu2" id="s2" onmouseover="popupNoClose()" onmouseout="popupClose()">
+<ul>
+<li><a href="http://www.51cto.com" target="_blank" title="中国领先的IT技术网站">51CTO.COM</a></li>
+<li><a href="http://www.cioage.com" target="_blank" title="中国首个专门服务于CIO的专业网站">CIOage.com</a></li>
+<li><a href="http://www.watchstor.com/" target="_blank"  title="领先的中文存储网络媒体">WatchStor.com</a></li>
+<li><a href="http://www.hc3i.cn/" target="_blank"  title="中国首家专注于数字医疗及医疗信息化的专业网站">HC3i.cn</a></li>
+</ul>
+</div>
+
+<div class="subMenu3" id="s3" onmouseover="popupNoClose()" onmouseout="popupClose()">
+<ul>
+<li><a href="http://home.51cto.com" target="_blank">家园</a></li>
+<li><a href="http://edu.51cto.com" target="_blank">学院</a></li>
+<li><a href="http://blog.51cto.com" target="_blank">博客</a></li>
+<li><a href="http://bbs.51cto.com" target="_blank">论坛</a></li>
+<li><a href="http://down.51cto.com" target="_blank">下载</a></li>
+<li><a href="http://selftest.51cto.com" target="_blank">自测</a></li>
+<li><a href="http://doctor.51cto.com" target="_blank">门诊</a></li>
+<li><a href="http://blog.51cto.com/newsletter/" target="_blank">周刊</a></li>
+<li><a href="http://book.51cto.com" target="_blank">读书</a></li>
+<li><a href="http://g.51cto.com" target="_blank">技术圈</a></li>
+</ul>
+</div>
+
+<div id="head">
+
+<div style="position:relative;" class="subNav">
+    <div class="logo"> <a href="http://down.51cto.com/"> <img width="188" height="58" border="0" alt="51CTO下载中心_IT技术文档及软件免费下载_技术文档|方案|源码|软件|电子书" src="http://down.51cto.com/images/Down_logo.gif"> </a></div>
+    <div class="head_soso">
+      <div style="height:35px;">
+	  <script>
+		function chkForm(obj){if (obj.q.value=='' || obj.q.value=='请输入搜索关键词') {obj.q.value='请输入搜索关键词';return false;}}
+	  </script>
+	  <form action="/search.php" method="get" onSubmit="return chkForm(this)">
+        <div class="head_soso_01">
+          <input type="text" class="head_soso_01_text" id="top_search" name="q" onclick = "javascript:if (this.value=='请输入搜索关键词') this.value='' "  baidusug=2 value="" onclick="">
+		 <!-- <script charset="gbk" src="http://www.baidu.com/js/opensug.js"></script>-->
+          <div class="select_box">
+            <input type="text" readonly="readonly" value="全部资料" id="myselect">
+            <ul class="select_ul">
+			  <li>全部资料</li>
+              <li>专题</li> 
+			<li>标签</li>			  
+              <li>用户名</li>             
+            </ul>
+          </div>
+        </div>
+        <input type="hidden" id="f_type" name="f" disabled="disabled" />
+        <input type="submit" class="head_soso_search" value=" ">
+		</form>
+		</div>
+        <div class="head_soso_tag">官方推荐：<a style="color:red;" href="http://down.51cto.com/download.php?do=vip">购买下载VIP,优惠+一键下载</a> </div>
+        
+      
+    </div>
+    <span style="position:absolute; left: 717px; top: 24px; cursor:pointer;"><a href="/upload"><img width="112" height="36" onmouseout="this.src='http://down.51cto.com/images/upload_n.gif'" onmouseover="this.src='http://down.51cto.com/images/upload_h.gif'" src="http://down.51cto.com/images/upload_n.gif"></a></span>
+    <div style="PADDING-BOTTOM: 0pt; PADDING-LEFT: 10px; PADDING-RIGHT: 0pt; FLOAT: right; CURSOR: pointer; PADDING-TOP:5px;font-size:12px;"><a href="javascript:addFavor();" style="COLOR: #3b6c00">+ 收藏本站</a></div>
+  </div>
+  <p class="clear"></p>
+  
+<style type="text/css">
+.clear{ padding:0; margin:0; font-size:0; line-height:0; height:0; clear:both;}
+.hr12{height:12px;}
+#head {
+    font-family: 宋体;
+    margin: 0 auto 8px;
+    width: 960px;
+}
+#head .mininav {
+    background: url(/images/mininav_bg.gif) repeat scroll 0 0 transparent;
+    color: #BBBBBB;
+    height: 19px;
+    padding: 16px 10px 0 0;
+    text-align: right;
+}
+#head .mininav a {
+    color: #696969;
+    padding: 2px 3px 0;
+    text-decoration: none;
+}
+#head .mininav a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+#head .subNav {
+    background: url(/images/subNav_bg.gif) no-repeat scroll right center transparent;
+    height: 94px;
+}
+#head .subNav .logo {
+    float: left;
+    height: 58px;
+    padding: 19px 0 0 15px;
+    width: 188px;
+}
+#head .subNav .daohang {
+    color: #3B6C00;
+    float: right;
+    height: 30px;
+    padding: 26px 10px 0 0;
+    width: 345px;
+}
+#head .subNav .daohang span {
+    padding-right: 12px;
+}
+#head .subNav .daohang a {
+    color: #3B6C00;
+    padding: 0 5px;
+    text-decoration: none;
+}
+#head .subNav .daohang a:hover {
+    color: #CC0000;
+    text-decoration: underline;
+}
+.head_soso{width:410px; height:70px; padding-top:25px; float:left; margin-left:60px;}
+.head_soso_01{ float:left; background:url(/images/re_sosobg.jpg) no-repeat; width:350px; height:34px;}
+.head_soso_01_text{ border:none; background:none;float:left;width:260px; height:34px;color:#000; line-height:34px; padding:0 5px;}
+.head_soso_search{ border:none; background:none; cursor:pointer;float:left; background:url(/images/re_sosobtn.jpg) no-repeat; width:56px; height:34px; }
+.select_box { float:left;width:70px; height:30px; margin-top:2px; position:relative; background:#fafafa;}
+.submit_box {width:80px; position:relative; padding:0; font-size:12px; text-align:center;}
+.soso_leftlist ul.ul02 li a:link,.soso_leftlist ul.ul02 li a:visited,.relate_date_tit a:link,.relate_date_tit a:visited,.head_soso_tag a:link,.head_soso_tag a:visited{color:#999;}
+.soso_leftlist ul.ul02 li a:hover,.relate_date ul li p a:hover,.relate_date_tit a:hover,.head_soso_tag a:hover{ color:#cc0000;}
+.soso_leftlist ul.ul02 li a:active,.relate_date_tit a:active,.head_soso_tag a:active{color:#999;}
+.head_soso_tag{clear:left;}
+.select_box input {cursor:pointer; display:block; line-height:28px; width:100%; height:28px; overflow:hidden;border:none;background:none; padding:0 2px 0 5px;  background: url(/images/select_bg.gif) no-repeat right top; color:#999;}
+.select_box ul {width:80px; position:absolute; left:0; top:30px;background:#fff; overflow: hidden;display:none; background:#ebebeb; z-index:99999;}
+.select_box ul li {display:block;height:30px;overflow:hidden;line-height:30px;padding-left:5px;width:100%;cursor:pointer;}
+.bdSug_app{display:none;}
+.head_soso_tag {
+    color: #999999;
+    line-height: 25px;
+    text-align: left;
+}
+.data_name span.name a{display:inline-block;}
+</style>
+
+
+<div class="banner_head" style="display:block">
+<!--
+<script type="text/javascript">
+/*960*90，创建于2013-9-23下载列表页头部通栏*/
+var cpro_id = "u1373141";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+
+
+
+<!-- <a href="http://edu.51cto.com/course/course_id-1185.html" target="_blank"><img src="/images/edutonglan.jpg"></a> -->
+</div>
+
+
+
+<div class="nav"><a  href="http://down.51cto.com">首 页</a><a href="http://down.51cto.com/zt" >下载专题</a><a onmouseover="jsddm_open(3, this)" onmouseout="jsddm_timer()" href="http://down.51cto.com/detail" >分类搜索</a><a href="http://down.51cto.com/commend" >推荐下载</a><a href="http://down.51cto.com/download.php?do=vip" target="_blank" >VIP专区</a><a href="http://down.51cto.com/rank/" >用户榜</a> <a href="http://edu.51cto.com/" target="_blank" style="color:#FA3737;">51CTO学院</a></div>
+
+<div class="navd" id="jdddm_id3" style="display:none;" onmouseover="jsddm_canceltimer()" onmouseout="jsddm_timer()">
+<img src="http://down.51cto.com/images/nav_line.jpg" width="592" height="9" /><div class="listnav">
+<div class="listnav_z">
+<ul>
+<li><strong>技术分类</strong></li>
+
+</ul>
+<div class="clear"></div>
+</div>
+<div class="listnav_y">
+<ul>
+
+</ul>
+<div class="clear"></div>
+<div class="search0"><a href="http://down.51cto.com/detail">按资料属性搜索</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://down.51cto.com/detail">按企业分类搜索</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://down.51cto.com/detail">按行业分类搜索</a></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+
+
+
+
+<div class="tag"><dl>
+
+<dt><a href="http://down.51cto.com">首页</a> > <a href='http://down.51cto.com/detail'>下载资源列表</a> > 系统提示</dt>
+<dd>
+
+ <a href="http://bbs.51cto.com/forum-324-1.html" target="_blank"><u>反馈</u></a>
+
+</dd>
+</dl></div>
+
+
+</div>
+<div id="dw_loginform" align="center" style="display:none;">
+<div class="albumalert">
+<div class="alerttitle"><span style="float:left;width:80%;color:#000;font-weight:700" id="dw_loginform_title">登录</span><span style="float:right;width:5%;"><a href="" onclick="document.getElementById('dw_loginform').style.display='none';return false;"><img src="http://img1.51cto.com/images/pic/alertcolse.gif" border="0"></a></span></div>
+<div class="alertcentent">
+<a href="http://home<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<title>系统提示_51CTO下载中心_IT技术资料免费下载</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<link href="http://down.51cto.com/css/Down_Head.css" rel="stylesheet" type="text/css" />
+<link href="http://down.51cto.com/css/" rel="stylesheet" type="text/css" />
+<script src="http://down.51cto.com/js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<link type="text/css" rel="stylesheet" href="http://down.51cto.com/css/header_master_top.css">
+
+<!-- --------------------Jaydar start-------------------------- -->
+<link type="text/css" href="/css/custom-theme/jquery-ui-1.8.21.custom.css?v=0.1" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="/service/doutip.srv.php"></script>
+<!-- --------------------Jaydar end-------------------------- -->
+
+<script src="http://down.51cto.com/js/message.js?v=0.5.7" type="text/javascript"></script>
+<script src="http://images.51cto.com/images/homepage/index_1_down.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".select_box input").click(function() {
+		var thisinput = jQuery(this);
+		var thisul = jQuery(this).parent().find("ul");
+		if (thisul.css("display") == "none") {
+			if (thisul.height() > 200) {
+				thisul.css({
+					height: "200" + "px",
+					"overflow-y": "scroll"
+				})
+			};
+			thisul.fadeIn("100");
+			thisul.hover(function() {},
+			function() {
+				thisul.fadeOut("100");
+			})
+			 thisul.find("li").click(function() {
+				thisinput.val(jQuery(this).text());
+				thisul.fadeOut("100");
+				jQuery('#f_type').attr('disabled', true);
+				switch (jQuery.trim(jQuery(this).text()))
+				　　 {　　
+				case '标签':
+					　　jQuery(this).closest("form").attr("action", '/tag_list.php');　　
+					break
+					　　
+				case '专题':
+					jQuery(this).closest("form").attr("action", '/special.php');　　
+					break
+				case '用户名':
+					jQuery(this).closest("form").attr("action", '/search.php');
+					jQuery('#f_type').attr('disabled', false).val('username');　
+					break
+					　　
+				default:
+					　jQuery(this).closest("form").attr("action", '/search.php');　　
+				}
+			}).hover(function() {
+				jQuery(this).addClass("hover");
+			},
+			function() {
+				jQuery(this).removeClass("hover");
+			});
+		}
+		 else {
+			thisul.fadeOut("fast");
+		}
+	})
+});
+</script>
+</head>
+
+<body>
+<div class="Nfloat" style="width:127px; height:197px;position: fixed;right: 2%;top: 35%;z-index: 801;" id="fullYearfloatPic">
+	<img width="127" border="0" src="http://img1.51cto.com/edu/images/floatpic.png" usemap="#Map">
+	<map name="Map" id="Map">
+	  <area shape="rect" coords="11,83,120,117" target="_blank" href="http://edu.51cto.com/course/courseList/id-all-field-toll-isLecturer-0-difficulty-all.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="6,120,119,144" target="_blank" href="http://edu.51cto.com/member/index.html" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="rect" coords="9,149,117,178" target="_blank" href="http://bbs.51cto.com/viewthread.php?tid=1113099&amp;page=1&amp;extra=#pid5675432" onfocus="isfox ? void(0) : blur(this);">
+	  <area shape="

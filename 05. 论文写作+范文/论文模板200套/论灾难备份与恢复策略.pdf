@@ -1,0 +1,915 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  鸿鹄论坛 -  思科华为技术社区</title>
+<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
+<script type="text/javascript">var fuckliulanqi = false;</script>
+<script type=text/javascript language=javascript src="./static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js"></script>
+<script type="text/javascript">if(!fuckliulanqi){ alert(":-O..求求你o_O..不要屏蔽.我们网站.的广告o_O...");}</script>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",鸿鹄论坛" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?iEU" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?iEU" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'iEU', charset = 'gbk', discuz_uid = '98838', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|好评度|点,2|鸿鹄币|个,5|威望|点,6|vip金币|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TkRoOE9XWTVNR1ZrT0RWOE1UTTVNamMzT1RZMk5IdzVPRGd6T0h3eU56UTVPREU9JmNrPWEyOTkzMzc3', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?iEU" type="text/javascript"></script>
+<meta name="application-name" content="鸿鹄论坛" />
+<meta name="msapplication-tooltip" content="鸿鹄论坛" />
+<meta name="msapplication-task" content="name=鸿鹄论坛;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="鸿鹄论坛" href="http://bbs.hh010.com/archiver/" />
+<script src="data/cache/forum.js?iEU" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">设为首页</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, '鸿鹄论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+
+<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">淘帖</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">广播</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/news/hcie-ss.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="鸿鹄论坛"><img src="template/hh010/images/logo.gif" alt="鸿鹄论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98838.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/88/38_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98838.html" target="_blank" title="访问我的空间"></a></strong>
+
+
+<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ绑定" /></a>
+
+<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">马甲</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
+<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=d137c11c">退出</a>
+</p>
+<p>
+<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 0</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 游客</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >鸿鹄网</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >鸿鹄论坛<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="最新FTP资料" target="_blank"  >FTP资料<span>最新FTP资料</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >考点查询</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >鸿鹄学院</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >书籍下载</a></li><li id="mn_N605c" ><a href="http://www.7mit.com" hidefocus="true" target="_blank"  >培训机构</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">更多</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+ </ul>
+<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >尊贵VIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP资料</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >群组</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >排行榜</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >家园</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >勋章中心</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >手机客户端</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="全球ccie总人数" target="_blank" >全球CCIE排名</a></li><li><a href="vip.php" hidefocus="true" >VIP中心</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >积分商城</a></li></ul><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="d137c11c" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::attachment" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师'</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccna题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNA题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">信用卡</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线控制器</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">水晶牌</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">闫辉</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">刘道军</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=d137c11c&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，原附件链接已失效 <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NDh8ZDI5NjExNjV8MTQwNDE0Mjg5OHw5ODgzOHwyNzQ5ODE%3D">[ 点击这里重新下载 ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ 点击这里查看原帖 ]</a></p>
+<script type="text/javascript">
+if(history.length > (BROWS<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  鸿鹄论坛 -  思科华为技术社区</title>
+<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
+<script type="text/javascript">var fuckliulanqi = false;</script>
+<script type=text/javascript language=javascript src="./static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js"></script>
+<script type="text/javascript">if(!fuckliulanqi){ alert(":-O..求求你o_O..不要屏蔽.我们网站.的广告o_O...");}</script>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",鸿鹄论坛" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?iEU" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?iEU" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'iEU', charset = 'gbk', discuz_uid = '98838', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|好评度|点,2|鸿鹄币|个,5|威望|点,6|vip金币|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TkRoOE9XWTVNR1ZrT0RWOE1UTTVNamMzT1RZMk5IdzVPRGd6T0h3eU56UTVPREUlM0QmY2s9YTI5OTMzNzc=', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?iEU" type="text/javascript"></script>
+<meta name="application-name" content="鸿鹄论坛" />
+<meta name="msapplication-tooltip" content="鸿鹄论坛" />
+<meta name="msapplication-task" content="name=鸿鹄论坛;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="鸿鹄论坛" href="http://bbs.hh010.com/archiver/" />
+<script src="data/cache/forum.js?iEU" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">设为首页</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, '鸿鹄论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+
+<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">淘帖</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">广播</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/news/hcie-ss.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="鸿鹄论坛"><img src="template/hh010/images/logo.gif" alt="鸿鹄论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98838.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/88/38_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98838.html" target="_blank" title="访问我的空间"></a></strong>
+
+
+<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ绑定" /></a>
+
+<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">马甲</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
+<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=409e7896">退出</a>
+</p>
+<p>
+<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 0</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 游客</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >鸿鹄网</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >鸿鹄论坛<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="最新FTP资料" target="_blank"  >FTP资料<span>最新FTP资料</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >考点查询</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >鸿鹄学院</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >书籍下载</a></li><li id="mn_N605c" ><a href="http://www.7mit.com" hidefocus="true" target="_blank"  >培训机构</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">更多</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+ </ul>
+<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >尊贵VIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP资料</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >群组</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >排行榜</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >家园</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >勋章中心</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >手机客户端</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="全球ccie总人数" target="_blank" >全球CCIE排名</a></li><li><a href="vip.php" hidefocus="true" >VIP中心</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >积分商城</a></li></ul><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="409e7896" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::attachment" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师'</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccna题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNA题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">信用卡</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线控制器</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">水晶牌</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">闫辉</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">刘道军</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=409e7896&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，原附件链接已失效 <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NDh8NGU3YzgzYjl8MTQwNDE0Mjg2NXw5ODgzOHwyNzQ5ODE%3D">[ 点击这里重新下载 ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ 点击这里查看原帖 ]</a></p>
+<script type="text/javascript">
+if(history.length > (B<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  鸿鹄论坛 -  思科华为技术社区</title>
+<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
+<script type="text/javascript">var fuckliulanqi = false;</script>
+<script type=text/javascript language=javascript src="./static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js"></script>
+<script type="text/javascript">if(!fuckliulanqi){ alert(":-O..求求你o_O..不要屏蔽.我们网站.的广告o_O...");}</script>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",鸿鹄论坛" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?iEU" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?iEU" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'iEU', charset = 'gbk', discuz_uid = '98072', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|好评度|点,2|鸿鹄币|个,5|威望|点,6|vip金币|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TkRoOFpHTmtNVFF4TVdSOE1UTTJOekV4T0RBMU4zdzVPREEzTW53eU56UTVPREU9', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?iEU" type="text/javascript"></script>
+<meta name="application-name" content="鸿鹄论坛" />
+<meta name="msapplication-tooltip" content="鸿鹄论坛" />
+<meta name="msapplication-task" content="name=鸿鹄论坛;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="鸿鹄论坛" href="http://bbs.hh010.com/archiver/" />
+<script src="data/cache/forum.js?iEU" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">设为首页</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, '鸿鹄论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+
+<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">淘帖</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">广播</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/news/hcie-ss.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="鸿鹄论坛"><img src="template/hh010/images/logo.gif" alt="鸿鹄论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98072.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/80/72_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98072.html" target="_blank" title="访问我的空间"></a></strong>
+
+
+<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ绑定" /></a>
+
+<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">马甲</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
+<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=8f54a2e2">退出</a>
+</p>
+<p>
+<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 0</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 游客</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >鸿鹄网</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >鸿鹄论坛<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="最新FTP资料" target="_blank"  >FTP资料<span>最新FTP资料</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >考点查询</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >鸿鹄学院</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >书籍下载</a></li><li id="mn_N605c" ><a href="http://www.7mit.com" hidefocus="true" target="_blank"  >培训机构</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">更多</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+ </ul>
+<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >尊贵VIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP资料</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >群组</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >排行榜</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >家园</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >勋章中心</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >手机客户端</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="全球ccie总人数" target="_blank" >全球CCIE排名</a></li><li><a href="vip.php" hidefocus="true" >VIP中心</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >积分商城</a></li></ul><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="8f54a2e2" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::attachment" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师'</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccna题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNA题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">信用卡</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线控制器</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">水晶牌</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">闫辉</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">刘道军</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=8f54a2e2&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，原附件链接已失效 <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NDh8Njc1NDFkYzF8MTQwNDE0Mjg2NXw5ODA3MnwyNzQ5ODE%3D">[ 点击这里重新下载 ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ 点击这里查看原帖 ]</a></p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : 1)) <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  鸿鹄论坛 -  思科华为技术社区</title>
+<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
+<script type="text/javascript">var fuckliulanqi = false;</script>
+<script type=text/javascript language=javascript src="./static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js"></script>
+<script type="text/javascript">if(!fuckliulanqi){ alert(":-O..求求你o_O..不要屏蔽.我们网站.的广告o_O...");}</script>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",鸿鹄论坛" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?iEU" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?iEU" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'iEU', charset = 'gbk', discuz_uid = '98072', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|好评度|点,2|鸿鹄币|个,5|威望|点,6|vip金币|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TkRoOFpHTmtNVFF4TVdSOE1UTTJOekV4T0RBMU4zdzVPREEzTW53eU56UTVPREUlM0Q=', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?iEU" type="text/javascript"></script>
+<meta name="application-name" content="鸿鹄论坛" />
+<meta name="msapplication-tooltip" content="鸿鹄论坛" />
+<meta name="msapplication-task" content="name=鸿鹄论坛;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="鸿鹄论坛" href="http://bbs.hh010.com/archiver/" />
+<script src="data/cache/forum.js?iEU" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">设为首页</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, '鸿鹄论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+
+<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">淘帖</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">广播</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/news/hcie-ss.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="鸿鹄论坛"><img src="template/hh010/images/logo.gif" alt="鸿鹄论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98072.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/80/72_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98072.html" target="_blank" title="访问我的空间"></a></strong>
+
+
+<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ绑定" /></a>
+
+<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">马甲</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
+<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=b7f65dd5">退出</a>
+</p>
+<p>
+<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 0</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 游客</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >鸿鹄网</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >鸿鹄论坛<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="最新FTP资料" target="_blank"  >FTP资料<span>最新FTP资料</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >考点查询</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >鸿鹄学院</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >书籍下载</a></li><li id="mn_N605c" ><a href="http://www.7mit.com" hidefocus="true" target="_blank"  >培训机构</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">更多</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+ </ul>
+<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >尊贵VIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP资料</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >群组</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >排行榜</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >家园</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >勋章中心</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >手机客户端</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="全球ccie总人数" target="_blank" >全球CCIE排名</a></li><li><a href="vip.php" hidefocus="true" >VIP中心</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >积分商城</a></li></ul><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="b7f65dd5" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::attachment" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccnp%CC%E2%BF%E2&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccnp题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CD%F8%C2%E7%B9%A4%B3%CC%CA%A6%27&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">网络工程师'</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=ccna%CC%E2%BF%E2&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">ccna题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNP&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNP</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=oracle&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">oracle</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=CCNA%CC%E2%BF%E2&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">CCNA题库</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%CA%D3%C6%B5&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D0%C5%D3%C3%BF%A8&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">信用卡</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=wlan&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">wlan</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=sql&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">sql</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=server&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">server</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CA%D3%C6%B5&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">视频</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF%BF%D8%D6%C6%C6%F7&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线控制器</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CB%AE%BE%A7%C5%C6&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">水晶牌</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E3%C6%BB%D4&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">闫辉</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%CE%DE%CF%DF&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">无线</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C1%F5%B5%C0%BE%FC&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">刘道军</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=gns3&amp;formhash=b7f65dd5&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">gns3</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="ct" class="wp cl w">
+<div class="nfl">
+<div class="f_c altw">
+<div id="messagetext" class="alert_error">
+<p>抱歉，原附件链接已失效 <br /><a href="http://bbs.hh010.com/forum.php?mod=attachment&aid=NTc4NDh8N2Y3NmMxYzl8MTQwNDE0Mjg2Nnw5ODA3MnwyNzQ5ODE%3D">[ 点击这里重新下载 ]</a><br /><a href="http://bbs.hh010.com/forum.php?mod=redirect&goto=findpost&pid=5883438&ptid=274981">[ 点击这里查看原帖 ]</a></p>
+<script type="text/javascript">
+if(history.length > (BROWSER.ie ? 0 : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>提示信息 -  鸿鹄论坛 -  思科华为技术社区</title>
+<meta name="baidu-site-verification" content="LleF4X7fELViSjo4" />
+<script type="text/javascript">var fuckliulanqi = false;</script>
+<script type=text/javascript language=javascript src="./static/js/adsbygoogle_ad_adview_pic_cpc_cpm_cpa_guanggao_gg.js"></script>
+<script type="text/javascript">if(!fuckliulanqi){ alert(":-O..求求你o_O..不要屏蔽.我们网站.的广告o_O...");}</script>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",鸿鹄论坛" />
+<meta name="generator" content="Discuz! X3" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.hh010.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_common.css?iEU" /><link rel="stylesheet" type="text/css" href="data/cache/style_6_forum_attachment.css?iEU" /><script type="text/javascript">var STYLEID = '6', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'iEU', charset = 'gbk', discuz_uid = '98072', cookiepre = 'DX27_d09b_', cookiedomain = '.hh010.com', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|好评度|点,2|鸿鹄币|个,5|威望|点,6|vip金币|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy5oaDAxMC5jb20vZm9ydW0ucGhwP21vZD1hdHRhY2htZW50JmFpZD1OVGM0TkRoOFpHTmtNVFF4TVdSOE1UTTJOekV4T0RBMU4zdzVPREEzTW53eU56UTVPREUlM0Q=', SITEURL = 'http://bbs.hh010.com/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?iEU" type="text/javascript"></script>
+<meta name="application-name" content="鸿鹄论坛" />
+<meta name="msapplication-tooltip" content="鸿鹄论坛" />
+<meta name="msapplication-task" content="name=鸿鹄论坛;action-uri=http://bbs.hh010.com;icon-uri=http://bbs.hh010.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://bbs.hh010.com/home.php;icon-uri=http://bbs.hh010.com/static/image/common/home.ico" /><link rel="archives" title="鸿鹄论坛" href="http://bbs.hh010.com/archiver/" />
+<script src="data/cache/forum.js?iEU" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_attachment" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://bbs.hh010.com/');">设为首页</a><a href="http://bbs.hh010.com/"  onclick="addFavorite(this.href, '鸿鹄论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+</div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+
+<li><a href="http://bbs.hh010.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://bbs.hh010.com/forum.php?mod=guide&view=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=friend" style="background-image:url(http://bbs.hh010.com/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=medal" style="background-image:url(http://bbs.hh010.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bbs.hh010.com/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=task" style="background-image:url(http://bbs.hh010.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=collection&op=my" style="background-image:url(http://bbs.hh010.com/static/image/feed/collection_b.png) !important">淘帖</a></li>
+<li><a href="http://bbs.hh010.com/home.php?mod=follow" style="background-image:url(http://bbs.hh010.com/static/image/feed/follow_b.png) !important">广播</a></li>
+<li><a href="http://bbs.hh010.com/forum.php?mod=guide" style="background-image:url(http://bbs.hh010.com/static/image/feed/guide_b.png) !important">导读</a></li>
+<li><a href="misc.php?mod=ranklist" style="background-image:url(http://bbs.hh010.com/static/image/feed/ranklist_b.png) !important">排行榜</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div class="wp a_h"><a href="http://www.yutianedu.cn/news/hcie-ss.html" target="_blank"><img src="http://image.hh010.com/yutian.gif" border="0"></a></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="鸿鹄论坛"><img src="template/hh010/images/logo.gif" alt="鸿鹄论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://bbs.hh010.com/space-uid-98072.html"><img src="http://bbs.hh010.com/uc_server/data/avatar/000/09/80/72_avatar_small.jpg" onerror="this.onerror=null;this.src='http://bbs.hh010.com/uc_server/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy"><a href="http://bbs.hh010.com/space-uid-98072.html" target="_blank" title="访问我的空间"></a></strong>
+
+
+<span class="pipe">|</span><a href="connect.php?mod=config" target="_blank"><img src="static/image/common/qq_bind_small.gif" class="qq_bind" align="absmiddle" alt="QQ绑定" /></a>
+
+<script>function showmyrepeats() {if(!$('myrepeats_menu')) {menu=document.createElement('div');menu.id='myrepeats_menu';menu.style.display='none';menu.className='p_pop';$('append_parent').appendChild(menu);ajaxget('plugin.php?id=myrepeats:switch&list=yes','myrepeats_menu','ajaxwaitid');}showMenu({'ctrlid':'myrepeats','duration':2});}</script><span class="pipe">|</span><a id="myrepeats" href="home.php?mod=spacecp&ac=plugin&id=myrepeats:memcp" class="showmenu cur1" onmouseover="delayShow(this, showmyrepeats)">马甲</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&ac=plugin&id=ljxlwb:ljxlwb&opp=in&forcelogin=true" target="_blank" style="margin-right:5px"><img class="qq_bind" align="absmiddle" src="source/plugin/ljxlwb/img/weibo_bind.png"></a>
+<span class="pipe">|</span><a href="javascript:;" onclick="showWindow('wechat_bind', 'plugin.php?id=wechat:bind')"><img src="source/plugin/wechat/image/wechat_bind.png" class="qq_bind" align="absmiddle" /></a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=space&amp;do=notice" id="myprompt" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒</a><span id="myprompt_check"></span>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=50d3f468">退出</a>
+</p>
+<p>
+<a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 0</a>
+<span class="pipe">|</span><a href="http://bbs.hh010.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 游客</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li id="mn_Nb786" ><a href="http://www.hh010.com/index.html" hidefocus="true" target="_blank"  >鸿鹄网</a></li><li id="mn_forum" ><a href="http://bbs.hh010.com" hidefocus="true" title="BBS"  >鸿鹄论坛<span>BBS</span></a></li><li id="mn_N4e7d" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" title="最新FTP资料" target="_blank"  >FTP资料<span>最新FTP资料</span></a></li><li id="mn_Nfbb1" ><a href="http://bbs.hh010.com/forum-425-1.html" hidefocus="true" target="_blank"  >考点查询</a></li><li id="mn_N9a7f" ><a href="http://vip.hh010.com" hidefocus="true" target="_blank"  >鸿鹄学院</a></li><li id="mn_N32c0" ><a href="http://book.hh010.com" hidefocus="true" target="_blank"  >书籍下载</a></li><li id="mn_N605c" ><a href="http://www.7mit.com" hidefocus="true" target="_blank"  >培训机构</a></li><li class="a" id="mn_N9ec7" onmouseover="showMenu({'ctrlid':this.id,'ctrlclass':'hover','duration':2})"><a href="http://bbs.hh010.com/forum.php" hidefocus="true"   style="color: orange">更多</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+ </ul>
+<ul class="p_pop h_pop" id="mn_N4e7d_menu" style="display: none"><li><a href="http://bbs.hh010.com/thread-28415-1-1.html" hidefocus="true" >尊贵VIP</a></li><li><a href="http://bbs.hh010.com/thread-29395-1-1.html" hidefocus="true" >FTP资料</a></li></ul><div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><ul class="p_pop h_pop" id="mn_N9ec7_menu" style="display: none"><li><a href="http://bbs.hh010.com/group.php" hidefocus="true" >群组</a></li><li><a href="misc.php?mod=ranklist" hidefocus="true" >排行榜</a></li><li><a href="http://bbs.hh010.com/home.php" hidefocus="true" >家园</a></li><li><a href="http://bbs.hh010.com/home.php?mod=medal" hidefocus="true" >勋章中心</a></li><li><a href="http://am.discuz.qq.com/get?sId=3132571&ts=1387857573&sig=f3b312173c09b0d4a4ca4bbb99c78e89" hidefocus="true" >手机客户端</a></li><li><a href="http://bbs.hh010.com/ccie.txt" hidefocus="true" title="全球ccie总人数" target="_blank" >全球CCIE排名</a></li><li><a href="vip.php" hidefocus="true" >VIP中心</a></li><li><a href="http://bbs.hh010.com/plugin.php?id=auction" hidefocus="true" >积分商城</a></li></ul><div id="mu" class="cl">
+</div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="50d3f468" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::attachment" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内�
